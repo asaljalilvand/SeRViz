@@ -1,0 +1,2057 @@
+{
+    "1": {
+        "event": "Ulcerative colitis",
+        "tag": "Condition",
+        "parent": 1
+    },
+    "2": {
+        "event": "Headache",
+        "tag": "Condition",
+        "parent": 2
+    },
+    "3": {
+        "event": "Joint stiffness",
+        "tag": "Symptom",
+        "parent": 3
+    },
+    "4": {
+        "event": "Depression",
+        "tag": "Symptom",
+        "parent": 4
+    },
+    "5": {
+        "event": "Stomach cramps",
+        "tag": "Symptom",
+        "parent": 5
+    },
+    "6": {
+        "event": "Diarrhea",
+        "tag": "Symptom",
+        "parent": 6
+    },
+    "7": {
+        "event": "ate breakfast",
+        "tag": "Tag",
+        "parent": 7
+    },
+    "8": {
+        "event": "good sleep",
+        "tag": "Tag",
+        "parent": 8
+    },
+    "9": {
+        "event": "smoothie",
+        "tag": "Tag",
+        "parent": 9
+    },
+    "10": {
+        "event": "banana",
+        "tag": "Tag",
+        "parent": 10
+    },
+    "11": {
+        "event": "spinach",
+        "tag": "Tag",
+        "parent": 11
+    },
+    "12": {
+        "event": "heart palpitations",
+        "tag": "Symptom",
+        "parent": 12
+    },
+    "13": {
+        "event": "exercise",
+        "tag": "Tag",
+        "parent": 13
+    },
+    "14": {
+        "event": "tired",
+        "tag": "Tag",
+        "parent": 14
+    },
+    "15": {
+        "event": "stressed",
+        "tag": "Tag",
+        "parent": 15
+    },
+    "16": {
+        "event": "Ehlers-Danlos syndrome",
+        "tag": "Condition",
+        "parent": 16
+    },
+    "17": {
+        "event": "Anxiety",
+        "tag": "Symptom",
+        "parent": 17
+    },
+    "18": {
+        "event": "Dizziness",
+        "tag": "Symptom",
+        "parent": 18
+    },
+    "19": {
+        "event": "Stomach Pain",
+        "tag": "Symptom",
+        "parent": 19
+    },
+    "20": {
+        "event": "Depression",
+        "tag": "Condition",
+        "parent": 20
+    },
+    "21": {
+        "event": "Endometriosis",
+        "tag": "Condition",
+        "parent": 21
+    },
+    "22": {
+        "event": "Migraine",
+        "tag": "Condition",
+        "parent": 22
+    },
+    "23": {
+        "event": "Pelvic pain",
+        "tag": "Symptom",
+        "parent": 23
+    },
+    "24": {
+        "event": "Fatigue",
+        "tag": "Symptom",
+        "parent": 24
+    },
+    "25": {
+        "event": "Crohn's disease",
+        "tag": "Condition",
+        "parent": 25
+    },
+    "26": {
+        "event": "Chronic Migraines",
+        "tag": "Condition",
+        "parent": 26
+    },
+    "27": {
+        "event": "Menstrual cramps",
+        "tag": "Symptom",
+        "parent": 27
+    },
+    "28": {
+        "event": "Migraine",
+        "tag": "Symptom",
+        "parent": 28
+    },
+    "29": {
+        "event": "sad",
+        "tag": "Tag",
+        "parent": 29
+    },
+    "30": {
+        "event": "Lyme disease",
+        "tag": "Condition",
+        "parent": 30
+    },
+    "31": {
+        "event": "Fibromyalgia",
+        "tag": "Condition",
+        "parent": 31
+    },
+    "32": {
+        "event": "POTS",
+        "tag": "Condition",
+        "parent": 32
+    },
+    "33": {
+        "event": "Chronic daily headaches",
+        "tag": "Condition",
+        "parent": 33
+    },
+    "34": {
+        "event": "Hypothyroidism",
+        "tag": "Condition",
+        "parent": 34
+    },
+    "35": {
+        "event": "Insomnia",
+        "tag": "Condition",
+        "parent": 35
+    },
+    "36": {
+        "event": "Headache",
+        "tag": "Symptom",
+        "parent": 36
+    },
+    "37": {
+        "event": "Fatigue and tiredness",
+        "tag": "Symptom",
+        "parent": 37
+    },
+    "38": {
+        "event": "happy",
+        "tag": "Tag",
+        "parent": 38
+    },
+    "39": {
+        "event": "Rheumatoid arthritis",
+        "tag": "Condition",
+        "parent": 39
+    },
+    "40": {
+        "event": "Irritable bowel syndrome",
+        "tag": "Condition",
+        "parent": 40
+    },
+    "41": {
+        "event": "Osteoarthritis",
+        "tag": "Condition",
+        "parent": 41
+    },
+    "42": {
+        "event": "Back pain",
+        "tag": "Symptom",
+        "parent": 42
+    },
+    "43": {
+        "event": "Insomnia",
+        "tag": "Symptom",
+        "parent": 43
+    },
+    "44": {
+        "event": "Muscle pain",
+        "tag": "Symptom",
+        "parent": 44
+    },
+    "45": {
+        "event": "Shoulder pain",
+        "tag": "Symptom",
+        "parent": 45
+    },
+    "46": {
+        "event": "Fatigue",
+        "tag": "Condition",
+        "parent": 46
+    },
+    "47": {
+        "event": "Anxiety",
+        "tag": "Condition",
+        "parent": 47
+    },
+    "48": {
+        "event": "exhausted",
+        "tag": "Tag",
+        "parent": 48
+    },
+    "49": {
+        "event": "Nausea",
+        "tag": "Symptom",
+        "parent": 49
+    },
+    "50": {
+        "event": "Shortness of breath",
+        "tag": "Symptom",
+        "parent": 50
+    },
+    "51": {
+        "event": "Bloating",
+        "tag": "Symptom",
+        "parent": 51
+    },
+    "52": {
+        "event": "very tired",
+        "tag": "Tag",
+        "parent": 52
+    },
+    "53": {
+        "event": "nausea",
+        "tag": "Tag",
+        "parent": 53
+    },
+    "54": {
+        "event": "slept in",
+        "tag": "Tag",
+        "parent": 54
+    },
+    "55": {
+        "event": "Chest pain",
+        "tag": "Condition",
+        "parent": 55
+    },
+    "56": {
+        "event": "Chest pain",
+        "tag": "Symptom",
+        "parent": 56
+    },
+    "57": {
+        "event": "Constipation",
+        "tag": "Symptom",
+        "parent": 57
+    },
+    "58": {
+        "event": "Chronic fatigue syndrome",
+        "tag": "Condition",
+        "parent": 58
+    },
+    "59": {
+        "event": "Headaches",
+        "tag": "Condition",
+        "parent": 59
+    },
+    "60": {
+        "event": "Irritability",
+        "tag": "Symptom",
+        "parent": 60
+    },
+    "61": {
+        "event": "Brain fog",
+        "tag": "Symptom",
+        "parent": 61
+    },
+    "62": {
+        "event": "Muscle spasms",
+        "tag": "Symptom",
+        "parent": 62
+    },
+    "63": {
+        "event": "Ibuprofen",
+        "tag": "Medicine",
+        "parent": 63
+    },
+    "64": {
+        "event": "Midodrine",
+        "tag": "Medicine",
+        "parent": 64
+    },
+    "65": {
+        "event": "gluten",
+        "tag": "Tag",
+        "parent": 65
+    },
+    "66": {
+        "event": "Abdominal pain",
+        "tag": "Symptom",
+        "parent": 66
+    },
+    "67": {
+        "event": "alcohol",
+        "tag": "Tag",
+        "parent": 67
+    },
+    "68": {
+        "event": "Knee pain",
+        "tag": "Condition",
+        "parent": 68
+    },
+    "69": {
+        "event": "Daytime nap",
+        "tag": "Tag",
+        "parent": 69
+    },
+    "70": {
+        "event": "Allergies",
+        "tag": "Condition",
+        "parent": 70
+    },
+    "71": {
+        "event": "joint pain",
+        "tag": "Condition",
+        "parent": 71
+    },
+    "72": {
+        "event": "Muscle pain",
+        "tag": "Condition",
+        "parent": 72
+    },
+    "73": {
+        "event": "Anxious",
+        "tag": "Tag",
+        "parent": 73
+    },
+    "74": {
+        "event": "Arthritis",
+        "tag": "Condition",
+        "parent": 74
+    },
+    "75": {
+        "event": "Knee pain",
+        "tag": "Symptom",
+        "parent": 75
+    },
+    "76": {
+        "event": "Cymbalta",
+        "tag": "Medicine",
+        "parent": 76
+    },
+    "77": {
+        "event": "coffee",
+        "tag": "Food",
+        "parent": 77
+    },
+    "78": {
+        "event": "Generalized anxiety disorder",
+        "tag": "Condition",
+        "parent": 78
+    },
+    "79": {
+        "event": "Sertraline",
+        "tag": "Medicine",
+        "parent": 79
+    },
+    "80": {
+        "event": "Asthma",
+        "tag": "Condition",
+        "parent": 80
+    },
+    "81": {
+        "event": "Joint pain",
+        "tag": "Symptom",
+        "parent": 81
+    },
+    "82": {
+        "event": "Hip pain",
+        "tag": "Symptom",
+        "parent": 82
+    },
+    "83": {
+        "event": "Light sensitivity",
+        "tag": "Symptom",
+        "parent": 83
+    },
+    "84": {
+        "event": "Weakness",
+        "tag": "Symptom",
+        "parent": 84
+    },
+    "85": {
+        "event": "Neck pain",
+        "tag": "Symptom",
+        "parent": 85
+    },
+    "86": {
+        "event": "Tylenol",
+        "tag": "Medicine",
+        "parent": 86
+    },
+    "87": {
+        "event": "Psoriasis",
+        "tag": "Condition",
+        "parent": 87
+    },
+    "88": {
+        "event": "dairy",
+        "tag": "Tag",
+        "parent": 88
+    },
+    "89": {
+        "event": "Polycystic ovary syndrome (PCOS)",
+        "tag": "Condition",
+        "parent": 89
+    },
+    "90": {
+        "event": "Gastroparesis",
+        "tag": "Condition",
+        "parent": 90
+    },
+    "91": {
+        "event": "Nausea",
+        "tag": "Condition",
+        "parent": 91
+    },
+    "92": {
+        "event": "Vomiting",
+        "tag": "Symptom",
+        "parent": 92
+    },
+    "93": {
+        "event": "poor sleep",
+        "tag": "Tag",
+        "parent": 93
+    },
+    "94": {
+        "event": "bad sleep",
+        "tag": "Tag",
+        "parent": 94
+    },
+    "95": {
+        "event": "depressed",
+        "tag": "Tag",
+        "parent": 95
+    },
+    "96": {
+        "event": "coffee",
+        "tag": "Tag",
+        "parent": 96
+    },
+    "97": {
+        "event": "ice cream",
+        "tag": "Tag",
+        "parent": 97
+    },
+    "98": {
+        "event": "Dysautonomia",
+        "tag": "Condition",
+        "parent": 98
+    },
+    "99": {
+        "event": "lightheadedness",
+        "tag": "Symptom",
+        "parent": 99
+    },
+    "100": {
+        "event": "sick",
+        "tag": "Tag",
+        "parent": 100
+    },
+    "101": {
+        "event": "ADHD",
+        "tag": "Condition",
+        "parent": 101
+    },
+    "102": {
+        "event": "Gas",
+        "tag": "Symptom",
+        "parent": 102
+    },
+    "103": {
+        "event": "Folic acid",
+        "tag": "Medicine",
+        "parent": 103
+    },
+    "104": {
+        "event": "Shoulder pain",
+        "tag": "Condition",
+        "parent": 104
+    },
+    "105": {
+        "event": "had sex",
+        "tag": "Tag",
+        "parent": 105
+    },
+    "106": {
+        "event": "exercised",
+        "tag": "Tag",
+        "parent": 106
+    },
+    "107": {
+        "event": "Magnesium",
+        "tag": "Medicine",
+        "parent": 107
+    },
+    "108": {
+        "event": "muscle weakness",
+        "tag": "Symptom",
+        "parent": 108
+    },
+    "109": {
+        "event": "chicken",
+        "tag": "Food",
+        "parent": 109
+    },
+    "110": {
+        "event": "Tramadol",
+        "tag": "Medicine",
+        "parent": 110
+    },
+    "111": {
+        "event": "walked",
+        "tag": "Tag",
+        "parent": 111
+    },
+    "112": {
+        "event": "pizza",
+        "tag": "Food",
+        "parent": 112
+    },
+    "113": {
+        "event": "Bread",
+        "tag": "Food",
+        "parent": 113
+    },
+    "114": {
+        "event": "Remission",
+        "tag": "HBI",
+        "parent": 114
+    },
+    "115": {
+        "event": "Chronic pain",
+        "tag": "Symptom",
+        "parent": 115
+    },
+    "116": {
+        "event": "popcorn",
+        "tag": "Food",
+        "parent": 116
+    },
+    "117": {
+        "event": "Headache",
+        "tag": "Tag",
+        "parent": 117
+    },
+    "118": {
+        "event": "IBS",
+        "tag": "Condition",
+        "parent": 118
+    },
+    "119": {
+        "event": "Went to work",
+        "tag": "Tag",
+        "parent": 119
+    },
+    "120": {
+        "event": "work",
+        "tag": "Tag",
+        "parent": 120
+    },
+    "121": {
+        "event": "Vitamin d",
+        "tag": "Medicine",
+        "parent": 121
+    },
+    "122": {
+        "event": "Cold",
+        "tag": "Symptom",
+        "parent": 122
+    },
+    "123": {
+        "event": "Synthroid",
+        "tag": "Medicine",
+        "parent": 123
+    },
+    "124": {
+        "event": "Sleep",
+        "tag": "Medicine",
+        "parent": 124
+    },
+    "125": {
+        "event": "Neck pain",
+        "tag": "Condition",
+        "parent": 125
+    },
+    "126": {
+        "event": "Multiple sclerosis",
+        "tag": "Condition",
+        "parent": 126
+    },
+    "127": {
+        "event": "Headaches",
+        "tag": "Symptom",
+        "parent": 127
+    },
+    "128": {
+        "event": "Stress",
+        "tag": "Tag",
+        "parent": 128
+    },
+    "129": {
+        "event": "Busy Day",
+        "tag": "Tag",
+        "parent": 129
+    },
+    "130": {
+        "event": "Yoga",
+        "tag": "Tag",
+        "parent": 130
+    },
+    "131": {
+        "event": "Hand pain",
+        "tag": "Symptom",
+        "parent": 131
+    },
+    "132": {
+        "event": "Foot pain",
+        "tag": "Symptom",
+        "parent": 132
+    },
+    "133": {
+        "event": "napped",
+        "tag": "Tag",
+        "parent": 133
+    },
+    "134": {
+        "event": "social interaction",
+        "tag": "Tag",
+        "parent": 134
+    },
+    "135": {
+        "event": "Dizziness",
+        "tag": "Condition",
+        "parent": 135
+    },
+    "136": {
+        "event": "Back pain",
+        "tag": "Condition",
+        "parent": 136
+    },
+    "137": {
+        "event": "Allergies",
+        "tag": "Symptom",
+        "parent": 137
+    },
+    "138": {
+        "event": "Tinnitus",
+        "tag": "Symptom",
+        "parent": 138
+    },
+    "139": {
+        "event": "Sore throat",
+        "tag": "Symptom",
+        "parent": 139
+    },
+    "140": {
+        "event": "Amitriptyline",
+        "tag": "Medicine",
+        "parent": 140
+    },
+    "141": {
+        "event": "Gabapentin",
+        "tag": "Medicine",
+        "parent": 141
+    },
+    "142": {
+        "event": "Difficulty concentrating",
+        "tag": "Symptom",
+        "parent": 142
+    },
+    "143": {
+        "event": "Prednisone",
+        "tag": "Medicine",
+        "parent": 143
+    },
+    "144": {
+        "event": "GERD",
+        "tag": "Condition",
+        "parent": 144
+    },
+    "145": {
+        "event": "sugar",
+        "tag": "Tag",
+        "parent": 145
+    },
+    "146": {
+        "event": "period",
+        "tag": "Tag",
+        "parent": 146
+    },
+    "147": {
+        "event": "bad pain day",
+        "tag": "Tag",
+        "parent": 147
+    },
+    "148": {
+        "event": "Psoriatic arthritis",
+        "tag": "Condition",
+        "parent": 148
+    },
+    "149": {
+        "event": "Myalgic encephalomyelitis",
+        "tag": "Condition",
+        "parent": 149
+    },
+    "150": {
+        "event": "Levothyroxine",
+        "tag": "Medicine",
+        "parent": 150
+    },
+    "151": {
+        "event": "Melatonin",
+        "tag": "Medicine",
+        "parent": 151
+    },
+    "152": {
+        "event": "milk",
+        "tag": "Food",
+        "parent": 152
+    },
+    "153": {
+        "event": "Chocolate",
+        "tag": "Food",
+        "parent": 153
+    },
+    "154": {
+        "event": "tea",
+        "tag": "Food",
+        "parent": 154
+    },
+    "155": {
+        "event": "water",
+        "tag": "Food",
+        "parent": 155
+    },
+    "156": {
+        "event": "Acid Reflux",
+        "tag": "Symptom",
+        "parent": 156
+    },
+    "157": {
+        "event": "Mast Cell Activation Syndrome",
+        "tag": "Condition",
+        "parent": 157
+    },
+    "158": {
+        "event": "Lower Back Pain",
+        "tag": "Symptom",
+        "parent": 158
+    },
+    "159": {
+        "event": "PMS",
+        "tag": "Tag",
+        "parent": 159
+    },
+    "160": {
+        "event": "soda",
+        "tag": "Tag",
+        "parent": 160
+    },
+    "161": {
+        "event": "Lupus",
+        "tag": "Condition",
+        "parent": 161
+    },
+    "162": {
+        "event": "Duloxetine",
+        "tag": "Medicine",
+        "parent": 162
+    },
+    "163": {
+        "event": "Interstitial cystitis",
+        "tag": "Condition",
+        "parent": 163
+    },
+    "164": {
+        "event": "Probiotic",
+        "tag": "Medicine",
+        "parent": 164
+    },
+    "165": {
+        "event": "Eggs",
+        "tag": "Food",
+        "parent": 165
+    },
+    "166": {
+        "event": "rice",
+        "tag": "Food",
+        "parent": 166
+    },
+    "167": {
+        "event": "smoothie",
+        "tag": "Food",
+        "parent": 167
+    },
+    "168": {
+        "event": "banana",
+        "tag": "Food",
+        "parent": 168
+    },
+    "169": {
+        "event": "french fries",
+        "tag": "Food",
+        "parent": 169
+    },
+    "170": {
+        "event": "peanut butter",
+        "tag": "Food",
+        "parent": 170
+    },
+    "171": {
+        "event": "Tinnitus",
+        "tag": "Condition",
+        "parent": 171
+    },
+    "172": {
+        "event": "Day off",
+        "tag": "Tag",
+        "parent": 172
+    },
+    "173": {
+        "event": "Asthma",
+        "tag": "Symptom",
+        "parent": 173
+    },
+    "174": {
+        "event": "Cold",
+        "tag": "Tag",
+        "parent": 174
+    },
+    "175": {
+        "event": "Vitamin b12",
+        "tag": "Medicine",
+        "parent": 175
+    },
+    "176": {
+        "event": "Leg pain",
+        "tag": "Symptom",
+        "parent": 176
+    },
+    "177": {
+        "event": "Vitamin D3",
+        "tag": "Medicine",
+        "parent": 177
+    },
+    "178": {
+        "event": "Sjogren's syndrome",
+        "tag": "Condition",
+        "parent": 178
+    },
+    "179": {
+        "event": "Fish oil",
+        "tag": "Medicine",
+        "parent": 179
+    },
+    "180": {
+        "event": "Chronic Pain",
+        "tag": "Condition",
+        "parent": 180
+    },
+    "181": {
+        "event": "yogurt",
+        "tag": "Tag",
+        "parent": 181
+    },
+    "182": {
+        "event": "pain",
+        "tag": "Tag",
+        "parent": 182
+    },
+    "183": {
+        "event": "PMS",
+        "tag": "Symptom",
+        "parent": 183
+    },
+    "184": {
+        "event": "Codeine",
+        "tag": "Medicine",
+        "parent": 184
+    },
+    "185": {
+        "event": "Naproxen",
+        "tag": "Medicine",
+        "parent": 185
+    },
+    "186": {
+        "event": "migraine",
+        "tag": "Tag",
+        "parent": 186
+    },
+    "187": {
+        "event": "cheese",
+        "tag": "Food",
+        "parent": 187
+    },
+    "188": {
+        "event": "sugar",
+        "tag": "Food",
+        "parent": 188
+    },
+    "189": {
+        "event": "Post-traumatic stress disorder (PTSD)",
+        "tag": "Condition",
+        "parent": 189
+    },
+    "190": {
+        "event": "Vertigo",
+        "tag": "Symptom",
+        "parent": 190
+    },
+    "191": {
+        "event": "Upper back pain",
+        "tag": "Symptom",
+        "parent": 191
+    },
+    "192": {
+        "event": "chips",
+        "tag": "Food",
+        "parent": 192
+    },
+    "193": {
+        "event": "Aspirin",
+        "tag": "Medicine",
+        "parent": 193
+    },
+    "194": {
+        "event": "worked",
+        "tag": "Tag",
+        "parent": 194
+    },
+    "195": {
+        "event": "Panadol",
+        "tag": "Medicine",
+        "parent": 195
+    },
+    "196": {
+        "event": "not enough sleep",
+        "tag": "Tag",
+        "parent": 196
+    },
+    "197": {
+        "event": "Stomach Pain",
+        "tag": "Condition",
+        "parent": 197
+    },
+    "198": {
+        "event": "Aleve",
+        "tag": "Medicine",
+        "parent": 198
+    },
+    "199": {
+        "event": "Iron",
+        "tag": "Medicine",
+        "parent": 199
+    },
+    "200": {
+        "event": "salad",
+        "tag": "Tag",
+        "parent": 200
+    },
+    "201": {
+        "event": "productive",
+        "tag": "Tag",
+        "parent": 201
+    },
+    "202": {
+        "event": "Psoriasis",
+        "tag": "Symptom",
+        "parent": 202
+    },
+    "203": {
+        "event": "sore",
+        "tag": "Tag",
+        "parent": 203
+    },
+    "204": {
+        "event": "Constipation",
+        "tag": "Condition",
+        "parent": 204
+    },
+    "205": {
+        "event": "ate lunch",
+        "tag": "Tag",
+        "parent": 205
+    },
+    "206": {
+        "event": "Orange juice",
+        "tag": "Food",
+        "parent": 206
+    },
+    "207": {
+        "event": "gluten",
+        "tag": "Food",
+        "parent": 207
+    },
+    "208": {
+        "event": "soda",
+        "tag": "Food",
+        "parent": 208
+    },
+    "209": {
+        "event": "Night sweats",
+        "tag": "Symptom",
+        "parent": 209
+    },
+    "210": {
+        "event": "Plaquenil",
+        "tag": "Medicine",
+        "parent": 210
+    },
+    "211": {
+        "event": "Benadryl",
+        "tag": "Medicine",
+        "parent": 211
+    },
+    "212": {
+        "event": "Stress",
+        "tag": "Symptom",
+        "parent": 212
+    },
+    "213": {
+        "event": "Postural Orthostatic Tachycardia Syndrome",
+        "tag": "Condition",
+        "parent": 213
+    },
+    "214": {
+        "event": "cheese",
+        "tag": "Tag",
+        "parent": 214
+    },
+    "215": {
+        "event": "Yoga",
+        "tag": "Medicine",
+        "parent": 215
+    },
+    "216": {
+        "event": "Night sweats",
+        "tag": "Tag",
+        "parent": 216
+    },
+    "217": {
+        "event": "Multivitamin",
+        "tag": "Medicine",
+        "parent": 217
+    },
+    "218": {
+        "event": "hot chocolate",
+        "tag": "Food",
+        "parent": 218
+    },
+    "219": {
+        "event": "salad",
+        "tag": "Food",
+        "parent": 219
+    },
+    "220": {
+        "event": "tomatoes",
+        "tag": "Food",
+        "parent": 220
+    },
+    "221": {
+        "event": "Apple",
+        "tag": "Food",
+        "parent": 221
+    },
+    "222": {
+        "event": "Acetaminophen",
+        "tag": "Medicine",
+        "parent": 222
+    },
+    "223": {
+        "event": "back pain",
+        "tag": "Tag",
+        "parent": 223
+    },
+    "224": {
+        "event": "Vitamin C",
+        "tag": "Medicine",
+        "parent": 224
+    },
+    "225": {
+        "event": "Exercise",
+        "tag": "Medicine",
+        "parent": 225
+    },
+    "226": {
+        "event": "work",
+        "tag": "Medicine",
+        "parent": 226
+    },
+    "227": {
+        "event": "POTS",
+        "tag": "Tag",
+        "parent": 227
+    },
+    "228": {
+        "event": "Escitalopram",
+        "tag": "Medicine",
+        "parent": 228
+    },
+    "229": {
+        "event": "IBS",
+        "tag": "Symptom",
+        "parent": 229
+    },
+    "230": {
+        "event": "CBD",
+        "tag": "Medicine",
+        "parent": 230
+    },
+    "231": {
+        "event": "Citalopram",
+        "tag": "Medicine",
+        "parent": 231
+    },
+    "232": {
+        "event": "Omeprazole",
+        "tag": "Medicine",
+        "parent": 232
+    },
+    "233": {
+        "event": "Went out",
+        "tag": "Tag",
+        "parent": 233
+    },
+    "234": {
+        "event": "Meditation",
+        "tag": "Medicine",
+        "parent": 234
+    },
+    "235": {
+        "event": "Lyrica",
+        "tag": "Medicine",
+        "parent": 235
+    },
+    "236": {
+        "event": "Acid Reflux",
+        "tag": "Condition",
+        "parent": 236
+    },
+    "237": {
+        "event": "brain fog",
+        "tag": "Condition",
+        "parent": 237
+    },
+    "238": {
+        "event": "cereal",
+        "tag": "Food",
+        "parent": 238
+    },
+    "239": {
+        "event": "oatmeal ",
+        "tag": "Food",
+        "parent": 239
+    },
+    "240": {
+        "event": "Diarrhea",
+        "tag": "Condition",
+        "parent": 240
+    },
+    "241": {
+        "event": "Fibromyalgia",
+        "tag": "Symptom",
+        "parent": 241
+    },
+    "242": {
+        "event": "Sleep",
+        "tag": "Symptom",
+        "parent": 242
+    },
+    "243": {
+        "event": "Stress",
+        "tag": "Condition",
+        "parent": 243
+    },
+    "244": {
+        "event": "strawberries",
+        "tag": "Food",
+        "parent": 244
+    },
+    "245": {
+        "event": "grapes",
+        "tag": "Food",
+        "parent": 245
+    },
+    "246": {
+        "event": "Menstrual cramps",
+        "tag": "Condition",
+        "parent": 246
+    },
+    "247": {
+        "event": "cereal",
+        "tag": "Tag",
+        "parent": 247
+    },
+    "248": {
+        "event": "chicken",
+        "tag": "Tag",
+        "parent": 248
+    },
+    "249": {
+        "event": "sweet potato",
+        "tag": "Tag",
+        "parent": 249
+    },
+    "250": {
+        "event": "very fatigued",
+        "tag": "Tag",
+        "parent": 250
+    },
+    "251": {
+        "event": "avocado",
+        "tag": "Tag",
+        "parent": 251
+    },
+    "252": {
+        "event": "joint pain",
+        "tag": "Tag",
+        "parent": 252
+    },
+    "253": {
+        "event": "Paracetamol",
+        "tag": "Medicine",
+        "parent": 253
+    },
+    "254": {
+        "event": "Lower back pain",
+        "tag": "Condition",
+        "parent": 254
+    },
+    "255": {
+        "event": "Probiotics",
+        "tag": "Medicine",
+        "parent": 255
+    },
+    "256": {
+        "event": "Zyrtec",
+        "tag": "Medicine",
+        "parent": 256
+    },
+    "257": {
+        "event": "nap",
+        "tag": "Tag",
+        "parent": 257
+    },
+    "258": {
+        "event": "milk",
+        "tag": "Tag",
+        "parent": 258
+    },
+    "259": {
+        "event": "butter",
+        "tag": "Tag",
+        "parent": 259
+    },
+    "260": {
+        "event": "french fries",
+        "tag": "Tag",
+        "parent": 260
+    },
+    "261": {
+        "event": "popcorn",
+        "tag": "Tag",
+        "parent": 261
+    },
+    "262": {
+        "event": "bacon",
+        "tag": "Tag",
+        "parent": 262
+    },
+    "263": {
+        "event": "sick",
+        "tag": "Symptom",
+        "parent": 263
+    },
+    "264": {
+        "event": "strawberries",
+        "tag": "Tag",
+        "parent": 264
+    },
+    "265": {
+        "event": "blueberries",
+        "tag": "Tag",
+        "parent": 265
+    },
+    "266": {
+        "event": "Zinc",
+        "tag": "Medicine",
+        "parent": 266
+    },
+    "267": {
+        "event": "GERD",
+        "tag": "Symptom",
+        "parent": 267
+    },
+    "268": {
+        "event": "stressed",
+        "tag": "Symptom",
+        "parent": 268
+    },
+    "269": {
+        "event": "Tramadol",
+        "tag": "Tag",
+        "parent": 269
+    },
+    "270": {
+        "event": "Ranitidine",
+        "tag": "Medicine",
+        "parent": 270
+    },
+    "271": {
+        "event": "Mirtazapine",
+        "tag": "Medicine",
+        "parent": 271
+    },
+    "272": {
+        "event": "fries",
+        "tag": "Food",
+        "parent": 272
+    },
+    "273": {
+        "event": "pasta",
+        "tag": "Food",
+        "parent": 273
+    },
+    "274": {
+        "event": "grapes",
+        "tag": "Tag",
+        "parent": 274
+    },
+    "275": {
+        "event": "ME/CFS",
+        "tag": "Condition",
+        "parent": 275
+    },
+    "276": {
+        "event": "Night sweats",
+        "tag": "Condition",
+        "parent": 276
+    },
+    "277": {
+        "event": "avocado",
+        "tag": "Food",
+        "parent": 277
+    },
+    "278": {
+        "event": "almond milk",
+        "tag": "Food",
+        "parent": 278
+    },
+    "279": {
+        "event": "Methotrexate",
+        "tag": "Medicine",
+        "parent": 279
+    },
+    "280": {
+        "event": "Buscopan",
+        "tag": "Medicine",
+        "parent": 280
+    },
+    "281": {
+        "event": "Cold",
+        "tag": "Condition",
+        "parent": 281
+    },
+    "282": {
+        "event": "Abdominal pain",
+        "tag": "Condition",
+        "parent": 282
+    },
+    "283": {
+        "event": "Leg pain",
+        "tag": "Condition",
+        "parent": 283
+    },
+    "284": {
+        "event": "bacon",
+        "tag": "Food",
+        "parent": 284
+    },
+    "285": {
+        "event": "carrots",
+        "tag": "Food",
+        "parent": 285
+    },
+    "286": {
+        "event": "broccoli",
+        "tag": "Food",
+        "parent": 286
+    },
+    "287": {
+        "event": "POTS",
+        "tag": "Symptom",
+        "parent": 287
+    },
+    "288": {
+        "event": "butter",
+        "tag": "Food",
+        "parent": 288
+    },
+    "289": {
+        "event": "toast ",
+        "tag": "Food",
+        "parent": 289
+    },
+    "290": {
+        "event": "almond milk",
+        "tag": "Tag",
+        "parent": 290
+    },
+    "291": {
+        "event": "Advil",
+        "tag": "Medicine",
+        "parent": 291
+    },
+    "292": {
+        "event": "stressed",
+        "tag": "Condition",
+        "parent": 292
+    },
+    "293": {
+        "event": "watched tv",
+        "tag": "Tag",
+        "parent": 293
+    },
+    "294": {
+        "event": "Showered",
+        "tag": "Tag",
+        "parent": 294
+    },
+    "295": {
+        "event": "Gatorade",
+        "tag": "Food",
+        "parent": 295
+    },
+    "296": {
+        "event": "brain fog",
+        "tag": "Tag",
+        "parent": 296
+    },
+    "297": {
+        "event": "tea",
+        "tag": "Tag",
+        "parent": 297
+    },
+    "298": {
+        "event": "bowel movement",
+        "tag": "Tag",
+        "parent": 298
+    },
+    "299": {
+        "event": "Arthritis",
+        "tag": "Symptom",
+        "parent": 299
+    },
+    "300": {
+        "event": "potatoes",
+        "tag": "Food",
+        "parent": 300
+    },
+    "301": {
+        "event": "Cbd oil",
+        "tag": "Medicine",
+        "parent": 301
+    },
+    "302": {
+        "event": "BM",
+        "tag": "Tag",
+        "parent": 302
+    },
+    "303": {
+        "event": "crisps",
+        "tag": "Food",
+        "parent": 303
+    },
+    "304": {
+        "event": "tired",
+        "tag": "Condition",
+        "parent": 304
+    },
+    "305": {
+        "event": "dairy",
+        "tag": "Food",
+        "parent": 305
+    },
+    "306": {
+        "event": "very tired",
+        "tag": "Condition",
+        "parent": 306
+    },
+    "307": {
+        "event": "pizza",
+        "tag": "Tag",
+        "parent": 307
+    },
+    "308": {
+        "event": "sweet potato",
+        "tag": "Food",
+        "parent": 308
+    },
+    "309": {
+        "event": "Abdominal pain",
+        "tag": "Tag",
+        "parent": 309
+    },
+    "310": {
+        "event": "tired",
+        "tag": "Symptom",
+        "parent": 310
+    },
+    "311": {
+        "event": "Weakness",
+        "tag": "Condition",
+        "parent": 311
+    },
+    "312": {
+        "event": "Muscle spasms",
+        "tag": "Condition",
+        "parent": 312
+    },
+    "313": {
+        "event": "pasta",
+        "tag": "Tag",
+        "parent": 313
+    },
+    "314": {
+        "event": "ice cream",
+        "tag": "Food",
+        "parent": 314
+    },
+    "315": {
+        "event": "peanut butter",
+        "tag": "Tag",
+        "parent": 315
+    },
+    "316": {
+        "event": "Exercise",
+        "tag": "Symptom",
+        "parent": 316
+    },
+    "317": {
+        "event": "egg",
+        "tag": "Food",
+        "parent": 317
+    },
+    "318": {
+        "event": "coke",
+        "tag": "Food",
+        "parent": 318
+    },
+    "319": {
+        "event": "blueberries",
+        "tag": "Food",
+        "parent": 319
+    },
+    "320": {
+        "event": "water",
+        "tag": "Tag",
+        "parent": 320
+    },
+    "321": {
+        "event": "Probiotic",
+        "tag": "Tag",
+        "parent": 321
+    },
+    "322": {
+        "event": "Sore throat",
+        "tag": "Condition",
+        "parent": 322
+    },
+    "323": {
+        "event": "Vertigo",
+        "tag": "Tag",
+        "parent": 323
+    },
+    "324": {
+        "event": "Dysautonomia",
+        "tag": "Tag",
+        "parent": 324
+    },
+    "325": {
+        "event": "spinach",
+        "tag": "Food",
+        "parent": 325
+    },
+    "326": {
+        "event": "Osteoarthritis",
+        "tag": "Symptom",
+        "parent": 326
+    },
+    "327": {
+        "event": "postural orthostatic tachycardia syndrome (POTS)",
+        "tag": "Condition",
+        "parent": 327
+    },
+    "328": {
+        "event": "yogurt",
+        "tag": "Food",
+        "parent": 328
+    },
+    "329": {
+        "event": "Dysautonomia",
+        "tag": "Symptom",
+        "parent": 329
+    },
+    "330": {
+        "event": "poor sleep",
+        "tag": "Condition",
+        "parent": 330
+    },
+    "331": {
+        "event": "Joint stiffness",
+        "tag": "Condition",
+        "parent": 331
+    },
+    "332": {
+        "event": "bowel movement",
+        "tag": "Medicine",
+        "parent": 332
+    },
+    "333": {
+        "event": "Moderate Disease",
+        "tag": "HBI",
+        "parent": 333
+    },
+    "334": {
+        "event": "Lupus",
+        "tag": "Symptom",
+        "parent": 334
+    },
+    "335": {
+        "event": "alcohol",
+        "tag": "Food",
+        "parent": 335
+    },
+    "336": {
+        "event": "Mild Disease",
+        "tag": "HBI",
+        "parent": 336
+    },
+    "337": {
+        "event": "rice",
+        "tag": "Tag",
+        "parent": 337
+    },
+    "338": {
+        "event": "Severe Disease",
+        "tag": "HBI",
+        "parent": 338
+    },
+    "339": {
+        "event": "Anxious",
+        "tag": "Symptom",
+        "parent": 339
+    },
+    "340": {
+        "event": "depressed",
+        "tag": "Condition",
+        "parent": 340
+    },
+    "341": {
+        "event": "Irritable bowel syndrome",
+        "tag": "Symptom",
+        "parent": 341
+    },
+    "342": {
+        "event": "Sleep",
+        "tag": "Condition",
+        "parent": 342
+    },
+    "343": {
+        "event": "Gatorade",
+        "tag": "Medicine",
+        "parent": 343
+    },
+    "344": {
+        "event": "pain",
+        "tag": "Symptom",
+        "parent": 344
+    },
+    "345": {
+        "event": "nausea",
+        "tag": "Symptom",
+        "parent": 345
+    },
+    "346": {
+        "event": "heart palpitations",
+        "tag": "Tag",
+        "parent": 346
+    },
+    "347": {
+        "event": "Lupus",
+        "tag": "Tag",
+        "parent": 347
+    },
+    "348": {
+        "event": "Rheumatoid arthritis",
+        "tag": "Symptom",
+        "parent": 348
+    },
+    "349": {
+        "event": "bad sleep",
+        "tag": "Symptom",
+        "parent": 349
+    },
+    "350": {
+        "event": "migraine",
+        "tag": "Condition",
+        "parent": 350
+    },
+    "351": {
+        "event": "lightheadedness",
+        "tag": "Condition",
+        "parent": 351
+    },
+    "352": {
+        "event": "very tired",
+        "tag": "Symptom",
+        "parent": 352
+    },
+    "353": {
+        "event": "back pain",
+        "tag": "Symptom",
+        "parent": 353
+    },
+    "354": {
+        "event": "migraine",
+        "tag": "Symptom",
+        "parent": 354
+    },
+    "355": {
+        "event": "ME/CFS",
+        "tag": "Tag",
+        "parent": 355
+    },
+    "356": {
+        "event": "ADHD",
+        "tag": "Symptom",
+        "parent": 356
+    },
+    "357": {
+        "event": "nap",
+        "tag": "Symptom",
+        "parent": 357
+    },
+    "358": {
+        "event": "egg",
+        "tag": "Tag",
+        "parent": 358
+    },
+    "359": {
+        "event": "productive",
+        "tag": "Symptom",
+        "parent": 359
+    },
+    "360": {
+        "event": "good sleep",
+        "tag": "Symptom",
+        "parent": 360
+    },
+    "361": {
+        "event": "IBS",
+        "tag": "Tag",
+        "parent": 361
+    },
+    "362": {
+        "event": "Ehlers-Danlos syndrome",
+        "tag": "Tag",
+        "parent": 362
+    },
+    "363": {
+        "event": "sad",
+        "tag": "Condition",
+        "parent": 363
+    },
+    "364": {
+        "event": "napped",
+        "tag": "Medicine",
+        "parent": 364
+    },
+    "365": {
+        "event": "Hypothyroidism",
+        "tag": "Symptom",
+        "parent": 365
+    },
+    "366": {
+        "event": "Melatonin",
+        "tag": "Tag",
+        "parent": 366
+    },
+    "367": {
+        "event": "Exercise",
+        "tag": "Condition",
+        "parent": 367
+    },
+    "368": {
+        "event": "gluten",
+        "tag": "Symptom",
+        "parent": 368
+    },
+    "369": {
+        "event": "PMS",
+        "tag": "Condition",
+        "parent": 369
+    },
+    "370": {
+        "event": "gluten",
+        "tag": "Medicine",
+        "parent": 370
+    },
+    "371": {
+        "event": "good sleep",
+        "tag": "Condition",
+        "parent": 371
+    },
+    "372": {
+        "event": "work",
+        "tag": "Symptom",
+        "parent": 372
+    },
+    "373": {
+        "event": "pain",
+        "tag": "Condition",
+        "parent": 373
+    },
+    "374": {
+        "event": "joint pain",
+        "tag": "Symptom",
+        "parent": 374
+    },
+    "375": {
+        "event": "ate breakfast",
+        "tag": "Food",
+        "parent": 375
+    },
+    "376": {
+        "event": "period",
+        "tag": "Food",
+        "parent": 376
+    },
+    "377": {
+        "event": "tomatoes",
+        "tag": "Tag",
+        "parent": 377
+    },
+    "378": {
+        "event": "coke",
+        "tag": "Medicine",
+        "parent": 378
+    },
+    "379": {
+        "event": "exhausted",
+        "tag": "Symptom",
+        "parent": 379
+    },
+    "380": {
+        "event": "Tylenol",
+        "tag": "Tag",
+        "parent": 380
+    },
+    "381": {
+        "event": "Zyrtec",
+        "tag": "Tag",
+        "parent": 381
+    },
+    "382": {
+        "event": "banana",
+        "tag": "Medicine",
+        "parent": 382
+    },
+    "383": {
+        "event": "exhausted",
+        "tag": "Condition",
+        "parent": 383
+    },
+    "384": {
+        "event": "poor sleep",
+        "tag": "Food",
+        "parent": 384
+    },
+    "385": {
+        "event": "walked",
+        "tag": "Food",
+        "parent": 385
+    },
+    "386": {
+        "event": "not enough sleep",
+        "tag": "Symptom",
+        "parent": 386
+    },
+    "387": {
+        "event": "potatoes",
+        "tag": "Tag",
+        "parent": 387
+    },
+    "388": {
+        "event": "brain fog",
+        "tag": "Symptom",
+        "parent": 388
+    },
+    "389": {
+        "event": "Yoga",
+        "tag": "Condition",
+        "parent": 389
+    },
+    "390": {
+        "event": "smoothie",
+        "tag": "Medicine",
+        "parent": 390
+    },
+    "391": {
+        "event": "Chocolate",
+        "tag": "Medicine",
+        "parent": 391
+    },
+    "392": {
+        "event": "GERD",
+        "tag": "Tag",
+        "parent": 392
+    },
+    "393": {
+        "event": "Iron",
+        "tag": "Symptom",
+        "parent": 393
+    },
+    "394": {
+        "event": "Apple",
+        "tag": "Medicine",
+        "parent": 394
+    },
+    "395": {
+        "event": "Advil",
+        "tag": "Symptom",
+        "parent": 395
+    },
+    "396": {
+        "event": "Stress",
+        "tag": "Food",
+        "parent": 396
+    },
+    "397": {
+        "event": "Gatorade",
+        "tag": "Tag",
+        "parent": 397
+    },
+    "398": {
+        "event": "alcohol",
+        "tag": "Condition",
+        "parent": 398
+    },
+    "399": {
+        "event": "Lower back pain",
+        "tag": "Symptom",
+        "parent": 399
+    },
+    "400": {
+        "event": "Magnesium",
+        "tag": "Tag",
+        "parent": 400
+    },
+    "401": {
+        "event": "Zinc",
+        "tag": "Tag",
+        "parent": 401
+    },
+    "402": {
+        "event": "napped",
+        "tag": "Symptom",
+        "parent": 402
+    },
+    "403": {
+        "event": "Cbd oil",
+        "tag": "Food",
+        "parent": 403
+    },
+    "404": {
+        "event": "coke",
+        "tag": "Tag",
+        "parent": 404
+    },
+    "405": {
+        "event": "Crohn's disease",
+        "tag": "Symptom",
+        "parent": 405
+    },
+    "406": {
+        "event": "Pelvic pain",
+        "tag": "Condition",
+        "parent": 406
+    },
+    "407": {
+        "event": "productive",
+        "tag": "Condition",
+        "parent": 407
+    },
+    "408": {
+        "event": "poor sleep",
+        "tag": "Medicine",
+        "parent": 408
+    },
+    "409": {
+        "event": "water",
+        "tag": "Symptom",
+        "parent": 409
+    },
+    "410": {
+        "event": "nap",
+        "tag": "Food",
+        "parent": 410
+    },
+    "411": {
+        "event": "Anxious",
+        "tag": "Food",
+        "parent": 411
+    }
+}

@@ -1,0 +1,221 @@
+ontime Aft starboard belt connected ==> ontime Aft starboard belt disconnected #SUP: 49 #CONF: 0.8032786885245902
+ontime Aft starboard belt connected,ontime Aft cargo door open ==> ontime Aft starboard belt disconnected #SUP: 40 #CONF: 0.8163265306122449
+ontime Bridge connected,ontime Aft cargo door open ==> ontime Aft starboard belt connected #SUP: 40 #CONF: 0.7692307692307693
+ontime Bridge connected,ontime Fwd cargo door open ==> ontime Aft starboard belt connected #SUP: 39 #CONF: 0.75
+ontime Fwd cargo door open ==> ontime Aft starboard belt connected #SUP: 45 #CONF: 0.7142857142857143
+ontime Fwd cargo door open,ontime Aft cargo door open ==> ontime Aft starboard belt connected #SUP: 42 #CONF: 0.875
+ontime Aft cargo door open ==> ontime Aft starboard belt connected #SUP: 45 #CONF: 0.75
+ontime Aft cargo door open,ontime Aircraft parked ==> ontime Aft starboard belt connected #SUP: 39 #CONF: 0.8125
+ontime Aft starboard belt connected,ontime Bridge connected ==> ontime Pushback tug connected #SUP: 39 #CONF: 0.7959183673469388
+ontime Aft starboard belt connected,ontime Fueller on stand ==> ontime Fueller disconnected #SUP: 39 #CONF: 0.8666666666666667
+ontime Aft starboard belt connected,ontime Fueller on stand,ontime Fueller connected ==> ontime Fueller disconnected #SUP: 39 #CONF: 1.0
+ontime Aft starboard belt connected,ontime Fueller connected ==> ontime Fueller disconnected #SUP: 39 #CONF: 0.9285714285714286
+ontime Aft starboard belt connected,ontime Fueller on stand ==> ontime Fueller connected #SUP: 39 #CONF: 0.8666666666666667
+ontime Aft starboard belt connected,ontime Fueller on stand ==> ontime Fueller left stand #SUP: 40 #CONF: 0.8888888888888888
+ontime Aft starboard belt connected ==> ontime Aft cargo door closed #SUP: 45 #CONF: 0.7377049180327869
+ontime Fwd belt disconnected ==> ontime Aircraft left stand #SUP: 45 #CONF: 0.8181818181818182
+ontime Fwd belt connected ==> ontime Fwd belt disconnected #SUP: 49 #CONF: 0.8909090909090909
+early Fueller on stand,early Fueller connected ==> early Fueller disconnected #SUP: 49 #CONF: 0.7313432835820896
+early Fueller on stand,early Fueller disconnected ==> early Fueller left stand #SUP: 44 #CONF: 0.7857142857142857
+early Fueller on stand,early Fueller disconnected,early Fueller connected ==> early Fueller left stand #SUP: 40 #CONF: 0.8163265306122449
+delayed Fueller on stand,delayed Fueller connected ==> delayed Fueller disconnected #SUP: 71 #CONF: 0.8160919540229885
+delayed Fueller on stand ==> delayed Fueller connected #SUP: 87 #CONF: 0.7131147540983607
+delayed Fueller on stand,ontime Aircraft entered stand ==> delayed Fueller connected #SUP: 46 #CONF: 0.7540983606557377
+delayed Fueller on stand,delayed Ground power disconnected ==> delayed Pushback started #SUP: 45 #CONF: 0.7894736842105263
+delayed Fueller on stand,delayed Passenger door closed ==> delayed Pushback started #SUP: 40 #CONF: 0.8
+delayed Fueller on stand,delayed Fueller disconnected ==> delayed Fueller left stand #SUP: 64 #CONF: 0.8533333333333334
+delayed Fueller on stand,delayed Fueller disconnected,delayed Fueller connected ==> delayed Fueller left stand #SUP: 61 #CONF: 0.8591549295774648
+delayed Fueller on stand,delayed Fueller connected ==> delayed Fueller left stand #SUP: 63 #CONF: 0.7241379310344828
+ontime Bridge connected,ontime Aircraft parked ==> ontime Fueller on stand #SUP: 56 #CONF: 0.717948717948718
+ontime Bridge connected,ontime Ground power connected ==> ontime Fueller on stand #SUP: 40 #CONF: 0.7142857142857143
+ontime Fueller on stand,ontime Pushback tug entered stand,ontime Pushback tug connected ==> ontime Bridge disconnected #SUP: 45 #CONF: 0.7894736842105263
+ontime Fueller on stand,ontime Pushback tug entered stand,ontime Pushback tug connected,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 42 #CONF: 0.7777777777777778
+ontime Fueller on stand,ontime Pushback tug entered stand,ontime Pushback tug connected,ontime Fueller disconnected ==> ontime Bridge disconnected #SUP: 39 #CONF: 0.7959183673469388
+ontime Fueller on stand,ontime Pushback tug entered stand,ontime Pushback tug connected,ontime Fueller disconnected,ontime Fueller connected ==> ontime Bridge disconnected #SUP: 39 #CONF: 0.7959183673469388
+ontime Fueller on stand,ontime Pushback tug entered stand,ontime Pushback tug connected,ontime Fueller connected ==> ontime Bridge disconnected #SUP: 39 #CONF: 0.7647058823529411
+ontime Fueller on stand,ontime Pushback tug entered stand,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 46 #CONF: 0.71875
+ontime Fueller on stand,ontime Pushback tug entered stand,ontime Fueller disconnected ==> ontime Bridge disconnected #SUP: 42 #CONF: 0.7241379310344828
+ontime Fueller on stand,ontime Pushback tug entered stand,ontime Fueller disconnected,ontime Fueller connected ==> ontime Bridge disconnected #SUP: 42 #CONF: 0.7368421052631579
+ontime Fueller on stand,ontime Pushback tug entered stand,ontime Fueller disconnected,ontime Fueller connected,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 41 #CONF: 0.7192982456140351
+ontime Fueller on stand,ontime Pushback tug entered stand,ontime Fueller disconnected,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 41 #CONF: 0.7192982456140351
+ontime Fueller on stand,ontime Pushback tug entered stand,ontime Fueller connected ==> ontime Bridge disconnected #SUP: 42 #CONF: 0.711864406779661
+ontime Fueller on stand,ontime Pushback tug entered stand,ontime Fueller connected,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 41 #CONF: 0.7192982456140351
+ontime Fueller on stand,ontime Pushback tug connected ==> ontime Bridge disconnected #SUP: 49 #CONF: 0.7424242424242424
+ontime Fueller on stand,ontime Pushback tug connected,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 45 #CONF: 0.75
+ontime Fueller on stand,ontime Pushback tug connected,ontime Fueller disconnected ==> ontime Bridge disconnected #SUP: 42 #CONF: 0.7636363636363637
+ontime Fueller on stand,ontime Pushback tug connected,ontime Fueller disconnected,ontime Fueller connected ==> ontime Bridge disconnected #SUP: 42 #CONF: 0.7636363636363637
+ontime Fueller on stand,ontime Pushback tug connected,ontime Fueller disconnected,ontime Fueller connected,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 41 #CONF: 0.7592592592592593
+ontime Fueller on stand,ontime Pushback tug connected,ontime Fueller disconnected,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 41 #CONF: 0.7592592592592593
+ontime Fueller on stand,ontime Pushback tug connected,ontime Fueller connected ==> ontime Bridge disconnected #SUP: 43 #CONF: 0.7288135593220338
+ontime Fueller on stand,ontime Pushback tug connected,ontime Fueller connected,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 41 #CONF: 0.7454545454545455
+ontime Fueller on stand,ontime Aircraft parked ==> ontime Fueller disconnected #SUP: 74 #CONF: 0.7551020408163265
+ontime Fueller on stand,ontime Bridge connected ==> ontime Fueller disconnected #SUP: 60 #CONF: 0.8
+ontime Fueller on stand,ontime Bridge connected,ontime Aircraft parked ==> ontime Fueller disconnected #SUP: 55 #CONF: 0.8088235294117647
+ontime Fueller on stand,ontime Bridge connected,ontime Fueller connected ==> ontime Fueller disconnected #SUP: 60 #CONF: 0.9375
+ontime Fueller on stand,ontime Bridge connected,ontime Fueller connected,ontime Aircraft parked ==> ontime Fueller disconnected #SUP: 55 #CONF: 0.9649122807017544
+ontime Fueller on stand,ontime Aircraft entered stand,ontime Fueller connected ==> ontime Fueller disconnected #SUP: 41 #CONF: 0.7735849056603774
+ontime Fueller on stand,ontime Fwd cargo door open ==> ontime Fueller disconnected #SUP: 39 #CONF: 0.8666666666666667
+ontime Fueller on stand,ontime Fwd cargo door open,ontime Fueller connected ==> ontime Fueller disconnected #SUP: 39 #CONF: 0.9512195121951219
+ontime Fueller on stand,ontime Ground power connected ==> ontime Fueller disconnected #SUP: 49 #CONF: 0.7101449275362319
+ontime Fueller on stand,ontime Ground power connected,ontime Aircraft parked ==> ontime Fueller disconnected #SUP: 44 #CONF: 0.7586206896551724
+ontime Fueller on stand,ontime Ground power connected,ontime Fueller connected ==> ontime Fueller disconnected #SUP: 47 #CONF: 0.9038461538461539
+ontime Fueller on stand,ontime Ground power connected,ontime Fueller connected,ontime Aircraft parked ==> ontime Fueller disconnected #SUP: 43 #CONF: 0.9555555555555556
+ontime Fueller on stand,ontime Fueller connected ==> ontime Fueller disconnected #SUP: 85 #CONF: 0.8673469387755102
+ontime Fueller on stand,ontime Fueller connected,ontime Aircraft parked ==> ontime Fueller disconnected #SUP: 69 #CONF: 0.9324324324324325
+ontime Fueller on stand,ontime Aft cargo door open ==> ontime Fueller disconnected #SUP: 39 #CONF: 0.8863636363636364
+ontime Fueller on stand,ontime Aft cargo door open,ontime Fueller connected ==> ontime Fueller disconnected #SUP: 39 #CONF: 0.975
+ontime Fueller on stand,ontime Aircraft parked ==> ontime Fueller connected #SUP: 73 #CONF: 0.7448979591836735
+ontime Fueller on stand,ontime Bridge connected ==> ontime Fueller connected #SUP: 62 #CONF: 0.8266666666666667
+ontime Fueller on stand,ontime Bridge connected,ontime Aircraft parked ==> ontime Fueller connected #SUP: 55 #CONF: 0.8088235294117647
+ontime Fueller on stand,ontime Aircraft entered stand,ontime Aircraft parked ==> ontime Fueller connected #SUP: 43 #CONF: 0.7413793103448276
+ontime Fueller on stand,ontime Fwd cargo door open ==> ontime Fueller connected #SUP: 40 #CONF: 0.8888888888888888
+ontime Fueller on stand,ontime Ground power connected ==> ontime Fueller connected #SUP: 50 #CONF: 0.7246376811594203
+ontime Fueller on stand,ontime Ground power connected,ontime Aircraft parked ==> ontime Fueller connected #SUP: 43 #CONF: 0.7413793103448276
+ontime Fueller on stand,ontime Aft cargo door open ==> ontime Fueller connected #SUP: 40 #CONF: 0.9090909090909091
+ontime Fueller on stand ==> ontime Fueller left stand #SUP: 105 #CONF: 0.7394366197183099
+ontime Fueller on stand,ontime Bridge connected ==> ontime Fueller left stand #SUP: 59 #CONF: 0.7866666666666666
+ontime Fueller on stand,ontime Bridge connected,ontime Fueller disconnected ==> ontime Fueller left stand #SUP: 52 #CONF: 0.8524590163934426
+ontime Fueller on stand,ontime Bridge connected,ontime Fueller disconnected,ontime Aircraft parked ==> ontime Fueller left stand #SUP: 42 #CONF: 0.75
+ontime Fueller on stand,ontime Bridge connected,ontime Fueller disconnected,ontime Fueller connected ==> ontime Fueller left stand #SUP: 52 #CONF: 0.8524590163934426
+ontime Fueller on stand,ontime Bridge connected,ontime Fueller disconnected,ontime Fueller connected,ontime Aircraft parked ==> ontime Fueller left stand #SUP: 42 #CONF: 0.75
+ontime Fueller on stand,ontime Bridge connected,ontime Fueller connected ==> ontime Fueller left stand #SUP: 52 #CONF: 0.8125
+ontime Fueller on stand,ontime Bridge connected,ontime Fueller connected,ontime Aircraft parked ==> ontime Fueller left stand #SUP: 42 #CONF: 0.7368421052631579
+ontime Fueller on stand,ontime Fueller disconnected ==> ontime Fueller left stand #SUP: 85 #CONF: 0.9042553191489362
+ontime Fueller on stand,ontime Fueller disconnected,ontime Aircraft parked ==> ontime Fueller left stand #SUP: 57 #CONF: 0.76
+ontime Fueller on stand,ontime Fueller disconnected,ontime Fueller connected ==> ontime Fueller left stand #SUP: 79 #CONF: 0.9186046511627907
+ontime Fueller on stand,ontime Fueller disconnected,ontime Fueller connected,ontime Aircraft parked ==> ontime Fueller left stand #SUP: 54 #CONF: 0.7714285714285715
+ontime Fueller on stand,ontime Fueller disconnected,ontime Ground power connected ==> ontime Fueller left stand #SUP: 41 #CONF: 0.82
+ontime Fueller on stand,ontime Fueller disconnected,ontime Ground power connected,ontime Fueller connected ==> ontime Fueller left stand #SUP: 40 #CONF: 0.8333333333333334
+ontime Fueller on stand,ontime Ground power connected,ontime Fueller connected ==> ontime Fueller left stand #SUP: 40 #CONF: 0.7692307692307693
+ontime Fueller on stand,ontime Fueller connected ==> ontime Fueller left stand #SUP: 83 #CONF: 0.8469387755102041
+ontime Fueller on stand,ontime Fueller connected,ontime Aircraft parked ==> ontime Fueller left stand #SUP: 55 #CONF: 0.7432432432432432
+ontime Fueller on stand,ontime Aft cargo door open ==> ontime Fueller left stand #SUP: 40 #CONF: 0.9090909090909091
+ontime Aft port catering left stand ==> ontime Aircraft left stand #SUP: 41 #CONF: 0.803921568627451
+ontime Aft port catering left stand ==> ontime Bridge disconnected #SUP: 39 #CONF: 0.7647058823529411
+ontime Aft port catering connected ==> ontime Aft port catering left stand #SUP: 39 #CONF: 0.7222222222222222
+ontime Aft port catering disconnected ==> ontime Aft port catering left stand #SUP: 41 #CONF: 0.7884615384615384
+early Ground power disconnected,early Passenger door closed ==> early Pushback started #SUP: 45 #CONF: 0.8333333333333334
+delayed Ground power disconnected ==> delayed Pushback started #SUP: 82 #CONF: 0.7884615384615384
+delayed Ground power disconnected,delayed Fueller disconnected ==> delayed Pushback started #SUP: 43 #CONF: 0.8269230769230769
+delayed Ground power disconnected,delayed Passenger door closed ==> delayed Pushback started #SUP: 59 #CONF: 0.8805970149253731
+delayed Ground power disconnected,delayed Fueller connected ==> delayed Pushback started #SUP: 44 #CONF: 0.8301886792452831
+delayed Ground power disconnected,delayed Fueller left stand ==> delayed Pushback started #SUP: 41 #CONF: 0.803921568627451
+delayed Ground power disconnected,delayed Bridge disconnected ==> delayed Pushback started #SUP: 43 #CONF: 0.8431372549019608
+ontime Ground power disconnected ==> ontime Aircraft left stand #SUP: 77 #CONF: 0.7064220183486238
+ontime Ground power disconnected,ontime Fueller disconnected ==> ontime Aircraft left stand #SUP: 44 #CONF: 0.7213114754098361
+ontime Ground power disconnected,ontime Fueller disconnected,ontime Fueller left stand ==> ontime Aircraft left stand #SUP: 40 #CONF: 0.7272727272727273
+ontime Ground power disconnected,ontime Fueller disconnected,ontime Fueller connected ==> ontime Aircraft left stand #SUP: 39 #CONF: 0.7090909090909091
+ontime Ground power disconnected,ontime Fueller connected,ontime Fueller left stand ==> ontime Aircraft left stand #SUP: 39 #CONF: 0.7222222222222222
+ontime Ground power disconnected,ontime Pushback started ==> ontime Aircraft left stand #SUP: 56 #CONF: 0.7368421052631579
+ontime Ground power disconnected,ontime Fueller left stand ==> ontime Aircraft left stand #SUP: 50 #CONF: 0.7352941176470589
+ontime Ground power disconnected,ontime Fueller left stand ==> ontime Pushback started #SUP: 49 #CONF: 0.7205882352941176
+ontime Ground power disconnected,ontime Fueller disconnected ==> ontime Pushback started #SUP: 45 #CONF: 0.7377049180327869
+ontime Ground power disconnected,ontime Fueller disconnected,ontime Fueller left stand ==> ontime Pushback started #SUP: 40 #CONF: 0.7272727272727273
+ontime Ground power disconnected,ontime Fueller disconnected,ontime Fueller connected ==> ontime Pushback started #SUP: 41 #CONF: 0.7454545454545455
+ontime Ground power disconnected,ontime Bridge disconnected ==> ontime Pushback started #SUP: 41 #CONF: 0.7068965517241379
+ontime Ground power disconnected,ontime Passenger door closed ==> ontime Pushback started #SUP: 42 #CONF: 0.8571428571428571
+ontime Ground power disconnected,ontime Fueller connected ==> ontime Pushback started #SUP: 44 #CONF: 0.7213114754098361
+ontime Aft starboard belt disconnected ==> ontime Aircraft left stand #SUP: 48 #CONF: 0.7868852459016393
+ontime Aft starboard belt disconnected,ontime Aft cargo door closed ==> ontime Aircraft left stand #SUP: 41 #CONF: 0.7592592592592593
+ontime Aft starboard belt disconnected ==> ontime Bridge disconnected #SUP: 47 #CONF: 0.7704918032786885
+ontime Aft starboard belt disconnected,ontime Aft cargo door closed ==> ontime Bridge disconnected #SUP: 44 #CONF: 0.8148148148148148
+ontime Aft cargo door open ==> ontime Aft starboard belt disconnected #SUP: 43 #CONF: 0.7166666666666667
+ontime Aft starboard belt disconnected ==> ontime Aft cargo door closed #SUP: 43 #CONF: 0.7049180327868853
+early Passenger door closed ==> early Pushback started #SUP: 57 #CONF: 0.7402597402597403
+delayed Passenger door closed ==> delayed Pushback started #SUP: 72 #CONF: 0.8089887640449438
+delayed Passenger door closed,delayed Fueller connected ==> delayed Pushback started #SUP: 39 #CONF: 0.9069767441860465
+ontime Passenger door closed,ontime Pushback started ==> ontime Aircraft left stand #SUP: 45 #CONF: 0.703125
+ontime Fwd cargo door closed ==> ontime Aircraft left stand #SUP: 50 #CONF: 0.8064516129032258
+ontime Fwd cargo door closed,ontime Bridge disconnected ==> ontime Aircraft left stand #SUP: 42 #CONF: 0.8571428571428571
+ontime Fwd cargo door closed ==> ontime Bridge disconnected #SUP: 45 #CONF: 0.7258064516129032
+ontime Pushback tug entered stand,ontime Pushback tug connected ==> ontime Bridge disconnected #SUP: 53 #CONF: 0.7464788732394366
+ontime Pushback tug entered stand,ontime Pushback tug connected,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 47 #CONF: 0.8545454545454545
+ontime Pushback tug entered stand,ontime Pushback tug connected,ontime Fueller disconnected ==> ontime Bridge disconnected #SUP: 45 #CONF: 0.8653846153846154
+ontime Pushback tug entered stand,ontime Pushback tug connected,ontime Fueller disconnected,ontime Fueller connected ==> ontime Bridge disconnected #SUP: 45 #CONF: 0.8823529411764706
+ontime Pushback tug entered stand,ontime Pushback tug connected,ontime Fueller disconnected,ontime Fueller connected,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 43 #CONF: 0.86
+ontime Pushback tug entered stand,ontime Pushback tug connected,ontime Fueller disconnected,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 43 #CONF: 0.86
+ontime Pushback tug entered stand,ontime Pushback tug connected,ontime Fueller connected ==> ontime Bridge disconnected #SUP: 45 #CONF: 0.8333333333333334
+ontime Pushback tug entered stand,ontime Pushback tug connected,ontime Fueller connected,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 43 #CONF: 0.86
+ontime Pushback tug entered stand,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 52 #CONF: 0.7761194029850746
+ontime Pushback tug entered stand,ontime Fueller disconnected ==> ontime Bridge disconnected #SUP: 51 #CONF: 0.7611940298507462
+ontime Pushback tug entered stand,ontime Fueller disconnected,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 47 #CONF: 0.7833333333333333
+ontime Pushback tug entered stand,ontime Fueller disconnected,ontime Fueller connected ==> ontime Bridge disconnected #SUP: 50 #CONF: 0.8064516129032258
+ontime Pushback tug entered stand,ontime Fueller disconnected,ontime Fueller connected,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 47 #CONF: 0.7966101694915254
+ontime Pushback tug entered stand,ontime Fueller connected ==> ontime Bridge disconnected #SUP: 50 #CONF: 0.7692307692307693
+ontime Pushback tug entered stand,ontime Fueller connected,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 47 #CONF: 0.7833333333333333
+ontime Pushback tug entered stand,ontime Bridge connected ==> ontime Pushback tug connected #SUP: 58 #CONF: 0.8285714285714286
+ontime Pushback tug entered stand,ontime Pushback tug connected,ontime Fueller left stand ==> ontime Pushback started #SUP: 39 #CONF: 0.7090909090909091
+ontime Pushback tug entered stand,ontime Bridge disconnected,ontime Pushback tug connected ==> ontime Pushback started #SUP: 41 #CONF: 0.7592592592592593
+ontime Pushback tug entered stand,ontime Bridge disconnected,ontime Fueller left stand ==> ontime Pushback started #SUP: 41 #CONF: 0.7068965517241379
+ontime Bridge connected,ontime Aircraft parked ==> ontime Fueller disconnected #SUP: 58 #CONF: 0.7435897435897436
+ontime Bridge connected,ontime Fueller connected ==> ontime Fueller disconnected #SUP: 64 #CONF: 0.9142857142857143
+ontime Bridge connected,ontime Fueller connected,ontime Aircraft parked ==> ontime Fueller disconnected #SUP: 57 #CONF: 0.9827586206896551
+ontime Bridge connected,ontime Aircraft parked ==> ontime Fueller connected #SUP: 57 #CONF: 0.7307692307692307
+ontime Bridge connected,ontime Aft cargo door open ==> ontime Fueller connected #SUP: 40 #CONF: 0.7692307692307693
+ontime Bridge connected,ontime Fwd cargo door open ==> ontime Fueller connected #SUP: 40 #CONF: 0.7692307692307693
+ontime Bridge connected,ontime Fueller disconnected ==> ontime Fueller left stand #SUP: 54 #CONF: 0.8181818181818182
+ontime Bridge connected,ontime Fueller disconnected,ontime Aircraft parked ==> ontime Fueller left stand #SUP: 42 #CONF: 0.7241379310344828
+ontime Bridge connected,ontime Fueller disconnected,ontime Fueller connected ==> ontime Fueller left stand #SUP: 54 #CONF: 0.84375
+ontime Bridge connected,ontime Fueller disconnected,ontime Fueller connected,ontime Aircraft parked ==> ontime Fueller left stand #SUP: 42 #CONF: 0.7368421052631579
+ontime Bridge connected,ontime Fueller connected ==> ontime Fueller left stand #SUP: 55 #CONF: 0.7857142857142857
+ontime Bridge connected,ontime Fueller connected,ontime Aircraft parked ==> ontime Fueller left stand #SUP: 42 #CONF: 0.7241379310344828
+ontime Fwd cargo door open,ontime Fueller connected ==> ontime Fueller disconnected #SUP: 40 #CONF: 0.9523809523809523
+delayed Bridge disconnected ==> ontime Aircraft left stand #SUP: 55 #CONF: 0.7142857142857143
+delayed Bridge disconnected,delayed Pushback started ==> ontime Aircraft left stand #SUP: 41 #CONF: 0.7068965517241379
+ontime Bridge disconnected ==> ontime Aircraft left stand #SUP: 73 #CONF: 0.7227722772277227
+ontime Bridge disconnected,ontime Pushback started ==> ontime Aircraft left stand #SUP: 53 #CONF: 0.726027397260274
+ontime Bridge disconnected,ontime Aft cargo door closed ==> ontime Aircraft left stand #SUP: 40 #CONF: 0.8
+delayed Pushback tug connected ==> ontime Aircraft left stand #SUP: 43 #CONF: 0.7049180327868853
+ontime Aft port catering disconnected ==> ontime Aircraft left stand #SUP: 41 #CONF: 0.7884615384615384
+ontime Pushback started ==> ontime Aircraft left stand #SUP: 99 #CONF: 0.7443609022556391
+ontime Pushback started,ontime Fueller left stand ==> ontime Aircraft left stand #SUP: 60 #CONF: 0.7228915662650602
+ontime Aft cargo door closed ==> ontime Aircraft left stand #SUP: 50 #CONF: 0.819672131147541
+delayed Bridge disconnected ==> delayed Pushback started #SUP: 57 #CONF: 0.7402597402597403
+ontime Pushback tug connected,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 51 #CONF: 0.8225806451612904
+ontime Pushback tug connected,ontime Fueller disconnected ==> ontime Bridge disconnected #SUP: 50 #CONF: 0.8620689655172413
+ontime Pushback tug connected,ontime Fueller disconnected,ontime Fueller connected ==> ontime Bridge disconnected #SUP: 50 #CONF: 0.8771929824561403
+ontime Pushback tug connected,ontime Fueller disconnected,ontime Fueller connected,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 47 #CONF: 0.8545454545454545
+ontime Pushback tug connected,ontime Fueller disconnected,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 47 #CONF: 0.8545454545454545
+ontime Pushback tug connected,ontime Fueller connected ==> ontime Bridge disconnected #SUP: 51 #CONF: 0.8225806451612904
+ontime Pushback tug connected,ontime Fueller connected,ontime Fueller left stand ==> ontime Bridge disconnected #SUP: 47 #CONF: 0.8392857142857143
+ontime Aft port catering disconnected ==> ontime Bridge disconnected #SUP: 39 #CONF: 0.75
+ontime Bridge disconnected,ontime Pushback tug connected ==> ontime Pushback started #SUP: 49 #CONF: 0.7777777777777778
+ontime Bridge disconnected,ontime Pushback tug connected,ontime Fueller left stand ==> ontime Pushback started #SUP: 42 #CONF: 0.7777777777777778
+ontime Bridge disconnected,ontime Pushback tug connected,ontime Fueller disconnected ==> ontime Pushback started #SUP: 39 #CONF: 0.7647058823529411
+ontime Bridge disconnected,ontime Fueller left stand ==> ontime Pushback started #SUP: 52 #CONF: 0.7222222222222222
+ontime Bridge disconnected,ontime Fueller disconnected ==> ontime Pushback started #SUP: 49 #CONF: 0.7101449275362319
+ontime Bridge disconnected,ontime Fueller disconnected,ontime Fueller left stand ==> ontime Pushback started #SUP: 45 #CONF: 0.7142857142857143
+ontime Aft cargo door closed ==> ontime Bridge disconnected #SUP: 47 #CONF: 0.7704918032786885
+ontime Aft cargo door open ==> ontime Fueller disconnected #SUP: 43 #CONF: 0.7166666666666667
+ontime Aft cargo door open,ontime Fueller connected ==> ontime Fueller disconnected #SUP: 40 #CONF: 0.9523809523809523
+ontime Aft cargo door open ==> ontime Fueller connected #SUP: 42 #CONF: 0.7
+ontime Aft cargo door open ==> ontime Fueller left stand #SUP: 44 #CONF: 0.7333333333333333
+ontime Aft cargo door open,ontime Fueller disconnected ==> ontime Fueller left stand #SUP: 40 #CONF: 0.9302325581395349
+ontime Aft cargo door open,ontime Fueller connected ==> ontime Fueller left stand #SUP: 39 #CONF: 0.9285714285714286
+ontime Pushback tug connected,ontime Fueller left stand ==> ontime Pushback started #SUP: 44 #CONF: 0.7096774193548387
+ontime Pushback tug connected,ontime Fueller disconnected ==> ontime Pushback started #SUP: 41 #CONF: 0.7068965517241379
+ontime Pushback tug connected,ontime Fueller disconnected,ontime Fueller left stand ==> ontime Pushback started #SUP: 39 #CONF: 0.7090909090909091
+early Fueller connected ==> early Fueller disconnected #SUP: 77 #CONF: 0.7403846153846154
+early Fueller disconnected ==> early Fueller left stand #SUP: 81 #CONF: 0.7788461538461539
+early Fueller disconnected,early Fueller connected ==> early Fueller left stand #SUP: 64 #CONF: 0.8311688311688312
+ontime Aircraft entered stand,delayed Fueller connected ==> delayed Fueller disconnected #SUP: 43 #CONF: 0.7049180327868853
+delayed Fueller connected ==> delayed Fueller disconnected #SUP: 96 #CONF: 0.8067226890756303
+delayed Fueller disconnected ==> delayed Fueller left stand #SUP: 96 #CONF: 0.8135593220338984
+delayed Fueller disconnected,delayed Fueller connected ==> delayed Fueller left stand #SUP: 81 #CONF: 0.84375
+ontime Aircraft entered stand,ontime Fueller connected ==> ontime Fueller disconnected #SUP: 51 #CONF: 0.7391304347826086
+ontime Aircraft entered stand,ontime Fueller connected,ontime Aircraft parked ==> ontime Fueller disconnected #SUP: 39 #CONF: 0.7959183673469388
+ontime Ground power connected,ontime Fueller connected ==> ontime Fueller disconnected #SUP: 51 #CONF: 0.85
+ontime Ground power connected,ontime Fueller connected,ontime Aircraft parked ==> ontime Fueller disconnected #SUP: 45 #CONF: 0.9183673469387755
+ontime Fueller connected ==> ontime Fueller disconnected #SUP: 107 #CONF: 0.823076923076923
+ontime Fueller connected,ontime Aircraft parked ==> ontime Fueller disconnected #SUP: 76 #CONF: 0.9156626506024096
+ontime Fueller disconnected ==> ontime Fueller left stand #SUP: 105 #CONF: 0.8015267175572519
+ontime Fueller disconnected,ontime Aircraft parked ==> ontime Fueller left stand #SUP: 61 #CONF: 0.7093023255813954
+ontime Fueller disconnected,ontime Aircraft entered stand ==> ontime Fueller left stand #SUP: 44 #CONF: 0.7096774193548387
+ontime Fueller disconnected,ontime Fueller connected ==> ontime Fueller left stand #SUP: 92 #CONF: 0.8598130841121495
+ontime Fueller disconnected,ontime Fueller connected,ontime Aircraft parked ==> ontime Fueller left stand #SUP: 57 #CONF: 0.75
+ontime Fueller disconnected,ontime Ground power connected ==> ontime Fueller left stand #SUP: 44 #CONF: 0.7586206896551724
+ontime Fueller disconnected,ontime Ground power connected,ontime Fueller connected ==> ontime Fueller left stand #SUP: 41 #CONF: 0.7884615384615384
+ontime Aft port catering connected ==> ontime Aft port catering disconnected #SUP: 43 #CONF: 0.7962962962962963
+ontime Fwd belt connected ==> ontime Fueller left stand #SUP: 40 #CONF: 0.7272727272727273
+delayed Fueller connected ==> delayed Fueller left stand #SUP: 84 #CONF: 0.7058823529411765
+ontime Fueller connected ==> ontime Fueller left stand #SUP: 97 #CONF: 0.7461538461538462

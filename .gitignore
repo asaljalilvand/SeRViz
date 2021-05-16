@@ -1,0 +1,7 @@
+.idea
+__pycache__/
+/server/pattern_mining/data/HIAA_anonymized/
+/client/
+
+# includes information about gate numbers and flight dates in variable names and filenames
+/server/pattern_mining/pre_processing/pre_processing.py

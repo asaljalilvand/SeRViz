@@ -1,0 +1,1202 @@
+{
+    "Ulcerative colitis": {
+        "code": 1,
+        "tag": "Condition",
+        "parent": "Ulcerative colitis"
+    },
+    "Headache": {
+        "code": 117,
+        "tag": "Tag",
+        "parent": "Headache"
+    },
+    "Joint stiffness": {
+        "code": 331,
+        "tag": "Condition",
+        "parent": "Joint stiffness"
+    },
+    "Depression": {
+        "code": 20,
+        "tag": "Condition",
+        "parent": "Depression"
+    },
+    "Stomach cramps": {
+        "code": 5,
+        "tag": "Symptom",
+        "parent": "Stomach cramps"
+    },
+    "Diarrhea": {
+        "code": 240,
+        "tag": "Condition",
+        "parent": "Diarrhea"
+    },
+    "ate breakfast": {
+        "code": 375,
+        "tag": "Food",
+        "parent": "ate breakfast"
+    },
+    "good sleep": {
+        "code": 371,
+        "tag": "Condition",
+        "parent": "good sleep"
+    },
+    "smoothie": {
+        "code": 390,
+        "tag": "Medicine",
+        "parent": "smoothie"
+    },
+    "banana": {
+        "code": 382,
+        "tag": "Medicine",
+        "parent": "banana"
+    },
+    "spinach": {
+        "code": 325,
+        "tag": "Food",
+        "parent": "spinach"
+    },
+    "heart palpitations": {
+        "code": 346,
+        "tag": "Tag",
+        "parent": "heart palpitations"
+    },
+    "exercise": {
+        "code": 13,
+        "tag": "Tag",
+        "parent": "exercise"
+    },
+    "tired": {
+        "code": 310,
+        "tag": "Symptom",
+        "parent": "tired"
+    },
+    "stressed": {
+        "code": 292,
+        "tag": "Condition",
+        "parent": "stressed"
+    },
+    "Ehlers-Danlos syndrome": {
+        "code": 362,
+        "tag": "Tag",
+        "parent": "Ehlers-Danlos syndrome"
+    },
+    "Anxiety": {
+        "code": 47,
+        "tag": "Condition",
+        "parent": "Anxiety"
+    },
+    "Dizziness": {
+        "code": 135,
+        "tag": "Condition",
+        "parent": "Dizziness"
+    },
+    "Stomach Pain": {
+        "code": 197,
+        "tag": "Condition",
+        "parent": "Stomach Pain"
+    },
+    "Endometriosis": {
+        "code": 21,
+        "tag": "Condition",
+        "parent": "Endometriosis"
+    },
+    "Migraine": {
+        "code": 28,
+        "tag": "Symptom",
+        "parent": "Migraine"
+    },
+    "Pelvic pain": {
+        "code": 406,
+        "tag": "Condition",
+        "parent": "Pelvic pain"
+    },
+    "Fatigue": {
+        "code": 46,
+        "tag": "Condition",
+        "parent": "Fatigue"
+    },
+    "Crohn's disease": {
+        "code": 405,
+        "tag": "Symptom",
+        "parent": "Crohn's disease"
+    },
+    "Chronic Migraines": {
+        "code": 26,
+        "tag": "Condition",
+        "parent": "Chronic Migraines"
+    },
+    "Menstrual cramps": {
+        "code": 246,
+        "tag": "Condition",
+        "parent": "Menstrual cramps"
+    },
+    "sad": {
+        "code": 363,
+        "tag": "Condition",
+        "parent": "sad"
+    },
+    "Lyme disease": {
+        "code": 30,
+        "tag": "Condition",
+        "parent": "Lyme disease"
+    },
+    "Fibromyalgia": {
+        "code": 241,
+        "tag": "Symptom",
+        "parent": "Fibromyalgia"
+    },
+    "POTS": {
+        "code": 287,
+        "tag": "Symptom",
+        "parent": "POTS"
+    },
+    "Chronic daily headaches": {
+        "code": 33,
+        "tag": "Condition",
+        "parent": "Chronic daily headaches"
+    },
+    "Hypothyroidism": {
+        "code": 365,
+        "tag": "Symptom",
+        "parent": "Hypothyroidism"
+    },
+    "Insomnia": {
+        "code": 43,
+        "tag": "Symptom",
+        "parent": "Insomnia"
+    },
+    "Fatigue and tiredness": {
+        "code": 37,
+        "tag": "Symptom",
+        "parent": "Fatigue and tiredness"
+    },
+    "happy": {
+        "code": 38,
+        "tag": "Tag",
+        "parent": "happy"
+    },
+    "Rheumatoid arthritis": {
+        "code": 348,
+        "tag": "Symptom",
+        "parent": "Rheumatoid arthritis"
+    },
+    "Irritable bowel syndrome": {
+        "code": 341,
+        "tag": "Symptom",
+        "parent": "Irritable bowel syndrome"
+    },
+    "Osteoarthritis": {
+        "code": 326,
+        "tag": "Symptom",
+        "parent": "Osteoarthritis"
+    },
+    "Back pain": {
+        "code": 136,
+        "tag": "Condition",
+        "parent": "Back pain"
+    },
+    "Muscle pain": {
+        "code": 72,
+        "tag": "Condition",
+        "parent": "Muscle pain"
+    },
+    "Shoulder pain": {
+        "code": 104,
+        "tag": "Condition",
+        "parent": "Shoulder pain"
+    },
+    "exhausted": {
+        "code": 383,
+        "tag": "Condition",
+        "parent": "exhausted"
+    },
+    "Nausea": {
+        "code": 91,
+        "tag": "Condition",
+        "parent": "Nausea"
+    },
+    "Shortness of breath": {
+        "code": 50,
+        "tag": "Symptom",
+        "parent": "Shortness of breath"
+    },
+    "Bloating": {
+        "code": 51,
+        "tag": "Symptom",
+        "parent": "Bloating"
+    },
+    "very tired": {
+        "code": 352,
+        "tag": "Symptom",
+        "parent": "very tired"
+    },
+    "nausea": {
+        "code": 345,
+        "tag": "Symptom",
+        "parent": "nausea"
+    },
+    "slept in": {
+        "code": 54,
+        "tag": "Tag",
+        "parent": "slept in"
+    },
+    "Chest pain": {
+        "code": 56,
+        "tag": "Symptom",
+        "parent": "Chest pain"
+    },
+    "Constipation": {
+        "code": 204,
+        "tag": "Condition",
+        "parent": "Constipation"
+    },
+    "Chronic fatigue syndrome": {
+        "code": 58,
+        "tag": "Condition",
+        "parent": "Chronic fatigue syndrome"
+    },
+    "Headaches": {
+        "code": 127,
+        "tag": "Symptom",
+        "parent": "Headaches"
+    },
+    "Irritability": {
+        "code": 60,
+        "tag": "Symptom",
+        "parent": "Irritability"
+    },
+    "Brain fog": {
+        "code": 61,
+        "tag": "Symptom",
+        "parent": "Brain fog"
+    },
+    "Muscle spasms": {
+        "code": 312,
+        "tag": "Condition",
+        "parent": "Muscle spasms"
+    },
+    "Ibuprofen": {
+        "code": 63,
+        "tag": "Medicine",
+        "parent": "Ibuprofen"
+    },
+    "Midodrine": {
+        "code": 64,
+        "tag": "Medicine",
+        "parent": "Midodrine"
+    },
+    "gluten": {
+        "code": 370,
+        "tag": "Medicine",
+        "parent": "gluten"
+    },
+    "Abdominal pain": {
+        "code": 309,
+        "tag": "Tag",
+        "parent": "Abdominal pain"
+    },
+    "alcohol": {
+        "code": 398,
+        "tag": "Condition",
+        "parent": "alcohol"
+    },
+    "Knee pain": {
+        "code": 75,
+        "tag": "Symptom",
+        "parent": "Knee pain"
+    },
+    "Daytime nap": {
+        "code": 69,
+        "tag": "Tag",
+        "parent": "Daytime nap"
+    },
+    "Allergies": {
+        "code": 137,
+        "tag": "Symptom",
+        "parent": "Allergies"
+    },
+    "joint pain": {
+        "code": 374,
+        "tag": "Symptom",
+        "parent": "joint pain"
+    },
+    "Anxious": {
+        "code": 411,
+        "tag": "Food",
+        "parent": "Anxious"
+    },
+    "Arthritis": {
+        "code": 299,
+        "tag": "Symptom",
+        "parent": "Arthritis"
+    },
+    "Cymbalta": {
+        "code": 76,
+        "tag": "Medicine",
+        "parent": "Cymbalta"
+    },
+    "coffee": {
+        "code": 96,
+        "tag": "Tag",
+        "parent": "coffee"
+    },
+    "Generalized anxiety disorder": {
+        "code": 78,
+        "tag": "Condition",
+        "parent": "Generalized anxiety disorder"
+    },
+    "Sertraline": {
+        "code": 79,
+        "tag": "Medicine",
+        "parent": "Sertraline"
+    },
+    "Asthma": {
+        "code": 173,
+        "tag": "Symptom",
+        "parent": "Asthma"
+    },
+    "Joint pain": {
+        "code": 81,
+        "tag": "Symptom",
+        "parent": "Joint pain"
+    },
+    "Hip pain": {
+        "code": 82,
+        "tag": "Symptom",
+        "parent": "Hip pain"
+    },
+    "Light sensitivity": {
+        "code": 83,
+        "tag": "Symptom",
+        "parent": "Light sensitivity"
+    },
+    "Weakness": {
+        "code": 311,
+        "tag": "Condition",
+        "parent": "Weakness"
+    },
+    "Neck pain": {
+        "code": 125,
+        "tag": "Condition",
+        "parent": "Neck pain"
+    },
+    "Tylenol": {
+        "code": 380,
+        "tag": "Tag",
+        "parent": "Tylenol"
+    },
+    "Psoriasis": {
+        "code": 202,
+        "tag": "Symptom",
+        "parent": "Psoriasis"
+    },
+    "dairy": {
+        "code": 305,
+        "tag": "Food",
+        "parent": "dairy"
+    },
+    "Polycystic ovary syndrome (PCOS)": {
+        "code": 89,
+        "tag": "Condition",
+        "parent": "Polycystic ovary syndrome (PCOS)"
+    },
+    "Gastroparesis": {
+        "code": 90,
+        "tag": "Condition",
+        "parent": "Gastroparesis"
+    },
+    "Vomiting": {
+        "code": 92,
+        "tag": "Symptom",
+        "parent": "Vomiting"
+    },
+    "poor sleep": {
+        "code": 408,
+        "tag": "Medicine",
+        "parent": "poor sleep"
+    },
+    "bad sleep": {
+        "code": 349,
+        "tag": "Symptom",
+        "parent": "bad sleep"
+    },
+    "depressed": {
+        "code": 340,
+        "tag": "Condition",
+        "parent": "depressed"
+    },
+    "ice cream": {
+        "code": 314,
+        "tag": "Food",
+        "parent": "ice cream"
+    },
+    "Dysautonomia": {
+        "code": 329,
+        "tag": "Symptom",
+        "parent": "Dysautonomia"
+    },
+    "lightheadedness": {
+        "code": 351,
+        "tag": "Condition",
+        "parent": "lightheadedness"
+    },
+    "sick": {
+        "code": 263,
+        "tag": "Symptom",
+        "parent": "sick"
+    },
+    "ADHD": {
+        "code": 356,
+        "tag": "Symptom",
+        "parent": "ADHD"
+    },
+    "Gas": {
+        "code": 102,
+        "tag": "Symptom",
+        "parent": "Gas"
+    },
+    "Folic acid": {
+        "code": 103,
+        "tag": "Medicine",
+        "parent": "Folic acid"
+    },
+    "had sex": {
+        "code": 105,
+        "tag": "Tag",
+        "parent": "had sex"
+    },
+    "exercised": {
+        "code": 106,
+        "tag": "Tag",
+        "parent": "exercised"
+    },
+    "Magnesium": {
+        "code": 400,
+        "tag": "Tag",
+        "parent": "Magnesium"
+    },
+    "muscle weakness": {
+        "code": 108,
+        "tag": "Symptom",
+        "parent": "muscle weakness"
+    },
+    "chicken": {
+        "code": 248,
+        "tag": "Tag",
+        "parent": "chicken"
+    },
+    "Tramadol": {
+        "code": 269,
+        "tag": "Tag",
+        "parent": "Tramadol"
+    },
+    "walked": {
+        "code": 385,
+        "tag": "Food",
+        "parent": "walked"
+    },
+    "pizza": {
+        "code": 307,
+        "tag": "Tag",
+        "parent": "pizza"
+    },
+    "Bread": {
+        "code": 113,
+        "tag": "Food",
+        "parent": "Bread"
+    },
+    "Remission": {
+        "code": 114,
+        "tag": "HBI",
+        "parent": "Remission"
+    },
+    "Chronic pain": {
+        "code": 115,
+        "tag": "Symptom",
+        "parent": "Chronic pain"
+    },
+    "popcorn": {
+        "code": 261,
+        "tag": "Tag",
+        "parent": "popcorn"
+    },
+    "IBS": {
+        "code": 361,
+        "tag": "Tag",
+        "parent": "IBS"
+    },
+    "Went to work": {
+        "code": 119,
+        "tag": "Tag",
+        "parent": "Went to work"
+    },
+    "work": {
+        "code": 372,
+        "tag": "Symptom",
+        "parent": "work"
+    },
+    "Vitamin d": {
+        "code": 121,
+        "tag": "Medicine",
+        "parent": "Vitamin d"
+    },
+    "Cold": {
+        "code": 281,
+        "tag": "Condition",
+        "parent": "Cold"
+    },
+    "Synthroid": {
+        "code": 123,
+        "tag": "Medicine",
+        "parent": "Synthroid"
+    },
+    "Sleep": {
+        "code": 342,
+        "tag": "Condition",
+        "parent": "Sleep"
+    },
+    "Multiple sclerosis": {
+        "code": 126,
+        "tag": "Condition",
+        "parent": "Multiple sclerosis"
+    },
+    "Stress": {
+        "code": 396,
+        "tag": "Food",
+        "parent": "Stress"
+    },
+    "Busy Day": {
+        "code": 129,
+        "tag": "Tag",
+        "parent": "Busy Day"
+    },
+    "Yoga": {
+        "code": 389,
+        "tag": "Condition",
+        "parent": "Yoga"
+    },
+    "Hand pain": {
+        "code": 131,
+        "tag": "Symptom",
+        "parent": "Hand pain"
+    },
+    "Foot pain": {
+        "code": 132,
+        "tag": "Symptom",
+        "parent": "Foot pain"
+    },
+    "napped": {
+        "code": 402,
+        "tag": "Symptom",
+        "parent": "napped"
+    },
+    "social interaction": {
+        "code": 134,
+        "tag": "Tag",
+        "parent": "social interaction"
+    },
+    "Tinnitus": {
+        "code": 171,
+        "tag": "Condition",
+        "parent": "Tinnitus"
+    },
+    "Sore throat": {
+        "code": 322,
+        "tag": "Condition",
+        "parent": "Sore throat"
+    },
+    "Amitriptyline": {
+        "code": 140,
+        "tag": "Medicine",
+        "parent": "Amitriptyline"
+    },
+    "Gabapentin": {
+        "code": 141,
+        "tag": "Medicine",
+        "parent": "Gabapentin"
+    },
+    "Difficulty concentrating": {
+        "code": 142,
+        "tag": "Symptom",
+        "parent": "Difficulty concentrating"
+    },
+    "Prednisone": {
+        "code": 143,
+        "tag": "Medicine",
+        "parent": "Prednisone"
+    },
+    "GERD": {
+        "code": 392,
+        "tag": "Tag",
+        "parent": "GERD"
+    },
+    "sugar": {
+        "code": 188,
+        "tag": "Food",
+        "parent": "sugar"
+    },
+    "period": {
+        "code": 376,
+        "tag": "Food",
+        "parent": "period"
+    },
+    "bad pain day": {
+        "code": 147,
+        "tag": "Tag",
+        "parent": "bad pain day"
+    },
+    "Psoriatic arthritis": {
+        "code": 148,
+        "tag": "Condition",
+        "parent": "Psoriatic arthritis"
+    },
+    "Myalgic encephalomyelitis": {
+        "code": 149,
+        "tag": "Condition",
+        "parent": "Myalgic encephalomyelitis"
+    },
+    "Levothyroxine": {
+        "code": 150,
+        "tag": "Medicine",
+        "parent": "Levothyroxine"
+    },
+    "Melatonin": {
+        "code": 366,
+        "tag": "Tag",
+        "parent": "Melatonin"
+    },
+    "milk": {
+        "code": 258,
+        "tag": "Tag",
+        "parent": "milk"
+    },
+    "Chocolate": {
+        "code": 391,
+        "tag": "Medicine",
+        "parent": "Chocolate"
+    },
+    "tea": {
+        "code": 297,
+        "tag": "Tag",
+        "parent": "tea"
+    },
+    "water": {
+        "code": 409,
+        "tag": "Symptom",
+        "parent": "water"
+    },
+    "Acid Reflux": {
+        "code": 236,
+        "tag": "Condition",
+        "parent": "Acid Reflux"
+    },
+    "Mast Cell Activation Syndrome": {
+        "code": 157,
+        "tag": "Condition",
+        "parent": "Mast Cell Activation Syndrome"
+    },
+    "Lower Back Pain": {
+        "code": 158,
+        "tag": "Symptom",
+        "parent": "Lower Back Pain"
+    },
+    "PMS": {
+        "code": 369,
+        "tag": "Condition",
+        "parent": "PMS"
+    },
+    "soda": {
+        "code": 208,
+        "tag": "Food",
+        "parent": "soda"
+    },
+    "Lupus": {
+        "code": 347,
+        "tag": "Tag",
+        "parent": "Lupus"
+    },
+    "Duloxetine": {
+        "code": 162,
+        "tag": "Medicine",
+        "parent": "Duloxetine"
+    },
+    "Interstitial cystitis": {
+        "code": 163,
+        "tag": "Condition",
+        "parent": "Interstitial cystitis"
+    },
+    "Probiotic": {
+        "code": 321,
+        "tag": "Tag",
+        "parent": "Probiotic"
+    },
+    "Eggs": {
+        "code": 165,
+        "tag": "Food",
+        "parent": "Eggs"
+    },
+    "rice": {
+        "code": 337,
+        "tag": "Tag",
+        "parent": "rice"
+    },
+    "french fries": {
+        "code": 260,
+        "tag": "Tag",
+        "parent": "french fries"
+    },
+    "peanut butter": {
+        "code": 315,
+        "tag": "Tag",
+        "parent": "peanut butter"
+    },
+    "Day off": {
+        "code": 172,
+        "tag": "Tag",
+        "parent": "Day off"
+    },
+    "Vitamin b12": {
+        "code": 175,
+        "tag": "Medicine",
+        "parent": "Vitamin b12"
+    },
+    "Leg pain": {
+        "code": 283,
+        "tag": "Condition",
+        "parent": "Leg pain"
+    },
+    "Vitamin D3": {
+        "code": 177,
+        "tag": "Medicine",
+        "parent": "Vitamin D3"
+    },
+    "Sjogren's syndrome": {
+        "code": 178,
+        "tag": "Condition",
+        "parent": "Sjogren's syndrome"
+    },
+    "Fish oil": {
+        "code": 179,
+        "tag": "Medicine",
+        "parent": "Fish oil"
+    },
+    "Chronic Pain": {
+        "code": 180,
+        "tag": "Condition",
+        "parent": "Chronic Pain"
+    },
+    "yogurt": {
+        "code": 328,
+        "tag": "Food",
+        "parent": "yogurt"
+    },
+    "pain": {
+        "code": 373,
+        "tag": "Condition",
+        "parent": "pain"
+    },
+    "Codeine": {
+        "code": 184,
+        "tag": "Medicine",
+        "parent": "Codeine"
+    },
+    "Naproxen": {
+        "code": 185,
+        "tag": "Medicine",
+        "parent": "Naproxen"
+    },
+    "migraine": {
+        "code": 354,
+        "tag": "Symptom",
+        "parent": "migraine"
+    },
+    "cheese": {
+        "code": 214,
+        "tag": "Tag",
+        "parent": "cheese"
+    },
+    "Post-traumatic stress disorder (PTSD)": {
+        "code": 189,
+        "tag": "Condition",
+        "parent": "Post-traumatic stress disorder (PTSD)"
+    },
+    "Vertigo": {
+        "code": 323,
+        "tag": "Tag",
+        "parent": "Vertigo"
+    },
+    "Upper back pain": {
+        "code": 191,
+        "tag": "Symptom",
+        "parent": "Upper back pain"
+    },
+    "chips": {
+        "code": 192,
+        "tag": "Food",
+        "parent": "chips"
+    },
+    "Aspirin": {
+        "code": 193,
+        "tag": "Medicine",
+        "parent": "Aspirin"
+    },
+    "worked": {
+        "code": 194,
+        "tag": "Tag",
+        "parent": "worked"
+    },
+    "Panadol": {
+        "code": 195,
+        "tag": "Medicine",
+        "parent": "Panadol"
+    },
+    "not enough sleep": {
+        "code": 386,
+        "tag": "Symptom",
+        "parent": "not enough sleep"
+    },
+    "Aleve": {
+        "code": 198,
+        "tag": "Medicine",
+        "parent": "Aleve"
+    },
+    "Iron": {
+        "code": 393,
+        "tag": "Symptom",
+        "parent": "Iron"
+    },
+    "salad": {
+        "code": 219,
+        "tag": "Food",
+        "parent": "salad"
+    },
+    "productive": {
+        "code": 407,
+        "tag": "Condition",
+        "parent": "productive"
+    },
+    "sore": {
+        "code": 203,
+        "tag": "Tag",
+        "parent": "sore"
+    },
+    "ate lunch": {
+        "code": 205,
+        "tag": "Tag",
+        "parent": "ate lunch"
+    },
+    "Orange juice": {
+        "code": 206,
+        "tag": "Food",
+        "parent": "Orange juice"
+    },
+    "Night sweats": {
+        "code": 276,
+        "tag": "Condition",
+        "parent": "Night sweats"
+    },
+    "Plaquenil": {
+        "code": 210,
+        "tag": "Medicine",
+        "parent": "Plaquenil"
+    },
+    "Benadryl": {
+        "code": 211,
+        "tag": "Medicine",
+        "parent": "Benadryl"
+    },
+    "Postural Orthostatic Tachycardia Syndrome": {
+        "code": 213,
+        "tag": "Condition",
+        "parent": "Postural Orthostatic Tachycardia Syndrome"
+    },
+    "Multivitamin": {
+        "code": 217,
+        "tag": "Medicine",
+        "parent": "Multivitamin"
+    },
+    "hot chocolate": {
+        "code": 218,
+        "tag": "Food",
+        "parent": "hot chocolate"
+    },
+    "tomatoes": {
+        "code": 377,
+        "tag": "Tag",
+        "parent": "tomatoes"
+    },
+    "Apple": {
+        "code": 394,
+        "tag": "Medicine",
+        "parent": "Apple"
+    },
+    "Acetaminophen": {
+        "code": 222,
+        "tag": "Medicine",
+        "parent": "Acetaminophen"
+    },
+    "back pain": {
+        "code": 353,
+        "tag": "Symptom",
+        "parent": "back pain"
+    },
+    "Vitamin C": {
+        "code": 224,
+        "tag": "Medicine",
+        "parent": "Vitamin C"
+    },
+    "Exercise": {
+        "code": 367,
+        "tag": "Condition",
+        "parent": "Exercise"
+    },
+    "Escitalopram": {
+        "code": 228,
+        "tag": "Medicine",
+        "parent": "Escitalopram"
+    },
+    "CBD": {
+        "code": 230,
+        "tag": "Medicine",
+        "parent": "CBD"
+    },
+    "Citalopram": {
+        "code": 231,
+        "tag": "Medicine",
+        "parent": "Citalopram"
+    },
+    "Omeprazole": {
+        "code": 232,
+        "tag": "Medicine",
+        "parent": "Omeprazole"
+    },
+    "Went out": {
+        "code": 233,
+        "tag": "Tag",
+        "parent": "Went out"
+    },
+    "Meditation": {
+        "code": 234,
+        "tag": "Medicine",
+        "parent": "Meditation"
+    },
+    "Lyrica": {
+        "code": 235,
+        "tag": "Medicine",
+        "parent": "Lyrica"
+    },
+    "brain fog": {
+        "code": 388,
+        "tag": "Symptom",
+        "parent": "brain fog"
+    },
+    "cereal": {
+        "code": 247,
+        "tag": "Tag",
+        "parent": "cereal"
+    },
+    "oatmeal ": {
+        "code": 239,
+        "tag": "Food",
+        "parent": "oatmeal "
+    },
+    "strawberries": {
+        "code": 264,
+        "tag": "Tag",
+        "parent": "strawberries"
+    },
+    "grapes": {
+        "code": 274,
+        "tag": "Tag",
+        "parent": "grapes"
+    },
+    "sweet potato": {
+        "code": 308,
+        "tag": "Food",
+        "parent": "sweet potato"
+    },
+    "very fatigued": {
+        "code": 250,
+        "tag": "Tag",
+        "parent": "very fatigued"
+    },
+    "avocado": {
+        "code": 277,
+        "tag": "Food",
+        "parent": "avocado"
+    },
+    "Paracetamol": {
+        "code": 253,
+        "tag": "Medicine",
+        "parent": "Paracetamol"
+    },
+    "Lower back pain": {
+        "code": 399,
+        "tag": "Symptom",
+        "parent": "Lower back pain"
+    },
+    "Probiotics": {
+        "code": 255,
+        "tag": "Medicine",
+        "parent": "Probiotics"
+    },
+    "Zyrtec": {
+        "code": 381,
+        "tag": "Tag",
+        "parent": "Zyrtec"
+    },
+    "nap": {
+        "code": 410,
+        "tag": "Food",
+        "parent": "nap"
+    },
+    "butter": {
+        "code": 288,
+        "tag": "Food",
+        "parent": "butter"
+    },
+    "bacon": {
+        "code": 284,
+        "tag": "Food",
+        "parent": "bacon"
+    },
+    "blueberries": {
+        "code": 319,
+        "tag": "Food",
+        "parent": "blueberries"
+    },
+    "Zinc": {
+        "code": 401,
+        "tag": "Tag",
+        "parent": "Zinc"
+    },
+    "Ranitidine": {
+        "code": 270,
+        "tag": "Medicine",
+        "parent": "Ranitidine"
+    },
+    "Mirtazapine": {
+        "code": 271,
+        "tag": "Medicine",
+        "parent": "Mirtazapine"
+    },
+    "fries": {
+        "code": 272,
+        "tag": "Food",
+        "parent": "fries"
+    },
+    "pasta": {
+        "code": 313,
+        "tag": "Tag",
+        "parent": "pasta"
+    },
+    "ME/CFS": {
+        "code": 355,
+        "tag": "Tag",
+        "parent": "ME/CFS"
+    },
+    "almond milk": {
+        "code": 290,
+        "tag": "Tag",
+        "parent": "almond milk"
+    },
+    "Methotrexate": {
+        "code": 279,
+        "tag": "Medicine",
+        "parent": "Methotrexate"
+    },
+    "Buscopan": {
+        "code": 280,
+        "tag": "Medicine",
+        "parent": "Buscopan"
+    },
+    "carrots": {
+        "code": 285,
+        "tag": "Food",
+        "parent": "carrots"
+    },
+    "broccoli": {
+        "code": 286,
+        "tag": "Food",
+        "parent": "broccoli"
+    },
+    "toast ": {
+        "code": 289,
+        "tag": "Food",
+        "parent": "toast "
+    },
+    "Advil": {
+        "code": 395,
+        "tag": "Symptom",
+        "parent": "Advil"
+    },
+    "watched tv": {
+        "code": 293,
+        "tag": "Tag",
+        "parent": "watched tv"
+    },
+    "Showered": {
+        "code": 294,
+        "tag": "Tag",
+        "parent": "Showered"
+    },
+    "Gatorade": {
+        "code": 397,
+        "tag": "Tag",
+        "parent": "Gatorade"
+    },
+    "bowel movement": {
+        "code": 332,
+        "tag": "Medicine",
+        "parent": "bowel movement"
+    },
+    "potatoes": {
+        "code": 387,
+        "tag": "Tag",
+        "parent": "potatoes"
+    },
+    "Cbd oil": {
+        "code": 403,
+        "tag": "Food",
+        "parent": "Cbd oil"
+    },
+    "BM": {
+        "code": 302,
+        "tag": "Tag",
+        "parent": "BM"
+    },
+    "crisps": {
+        "code": 303,
+        "tag": "Food",
+        "parent": "crisps"
+    },
+    "egg": {
+        "code": 358,
+        "tag": "Tag",
+        "parent": "egg"
+    },
+    "coke": {
+        "code": 404,
+        "tag": "Tag",
+        "parent": "coke"
+    },
+    "postural orthostatic tachycardia syndrome (POTS)": {
+        "code": 327,
+        "tag": "Condition",
+        "parent": "postural orthostatic tachycardia syndrome (POTS)"
+    },
+    "Moderate Disease": {
+        "code": 333,
+        "tag": "HBI",
+        "parent": "Moderate Disease"
+    },
+    "Mild Disease": {
+        "code": 336,
+        "tag": "HBI",
+        "parent": "Mild Disease"
+    },
+    "Severe Disease": {
+        "code": 338,
+        "tag": "HBI",
+        "parent": "Severe Disease"
+    }
+}

@@ -1,0 +1,229 @@
+short Passenger door closed-Pushback started #SUP: 39
+ontime Aircraft parked-Passenger door open #SUP: 39
+ontime Passenger door closed-Pushback started #SUP: 40
+short Aircraft parked-Passenger door open #SUP: 42
+long Passenger door closed-Pushback started #SUP: 47
+short Ground power disconnected-Pushback started #SUP: 48
+short Aircraft parked-Ground power connected #SUP: 49
+long Aircraft parked-Passenger door open #SUP: 50
+long Ground power disconnected-Pushback started #SUP: 55
+long Aircraft parked-Ground power connected #SUP: 59
+long Aircraft parked-Ground power connected long Aircraft parked-Bridge connected #SUP: 39
+ontime Aircraft parked-Aft cargo door open #SUP: 60
+ontime Bridge disconnected-Pushback started ontime Aircraft parked-Aft cargo door open #SUP: 39
+ontime Fueller on stand-Fueller connected ontime Aircraft parked-Aft cargo door open #SUP: 40
+ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Aft cargo door open #SUP: 42
+ontime Fueller on stand-Fueller connected ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Aft cargo door open #SUP: 40
+ontime Aircraft parked-Fueller on stand ontime Aircraft parked-Aft cargo door open #SUP: 45
+ontime Aircraft parked-Fwd cargo door open ontime Aircraft parked-Aft cargo door open #SUP: 47
+ontime Fueller on stand-Fueller connected ontime Aircraft parked-Fwd cargo door open ontime Aircraft parked-Aft cargo door open #SUP: 39
+ontime Aircraft parked-Fueller on stand ontime Aircraft parked-Fwd cargo door open ontime Aircraft parked-Aft cargo door open #SUP: 39
+ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Aft cargo door open #SUP: 41
+ontime Fueller on stand-Fueller connected ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Aft cargo door open #SUP: 39
+ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Fwd cargo door open ontime Aircraft parked-Aft cargo door open #SUP: 42
+ontime Aircraft parked-Fwd cargo door open ontime Aircraft parked-Aft cargo door open ontime Aircraft parked-Bridge connected #SUP: 44
+ontime Fueller on stand-Fueller connected ontime Aircraft parked-Fwd cargo door open ontime Aircraft parked-Aft cargo door open ontime Aircraft parked-Bridge connected #SUP: 39
+ontime Aircraft parked-Fueller on stand ontime Aircraft parked-Fwd cargo door open ontime Aircraft parked-Aft cargo door open ontime Aircraft parked-Bridge connected #SUP: 39
+ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Aft cargo door open ontime Aircraft parked-Bridge connected #SUP: 40
+ontime Fueller on stand-Fueller connected ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Aft cargo door open ontime Aircraft parked-Bridge connected #SUP: 39
+ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Fwd cargo door open ontime Aircraft parked-Aft cargo door open ontime Aircraft parked-Bridge connected #SUP: 42
+ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Aft cargo door open #SUP: 47
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Aft cargo door open #SUP: 41
+ontime Aircraft parked-Aft cargo door open ontime Aircraft parked-Bridge connected #SUP: 48
+ontime Fueller on stand-Fueller connected ontime Aircraft parked-Aft cargo door open ontime Aircraft parked-Bridge connected #SUP: 39
+ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Aft cargo door open ontime Aircraft parked-Bridge connected #SUP: 40
+ontime Fueller on stand-Fueller connected ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Aft cargo door open ontime Aircraft parked-Bridge connected #SUP: 39
+ontime Aircraft parked-Fueller on stand ontime Aircraft parked-Aft cargo door open ontime Aircraft parked-Bridge connected #SUP: 42
+ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Aft cargo door open ontime Aircraft parked-Bridge connected #SUP: 46
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Aft cargo door open ontime Aircraft parked-Bridge connected #SUP: 41
+short Bridge disconnected-Pushback started #SUP: 61
+ontime Aircraft parked-Fwd cargo door open #SUP: 62
+ontime Aircraft parked-Fwd cargo door open ontime Bridge disconnected-Pushback started #SUP: 42
+ontime Aircraft parked-Fwd cargo door open ontime Bridge disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 39
+ontime Aircraft parked-Fueller on stand ontime Aircraft parked-Fwd cargo door open #SUP: 46
+ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand #SUP: 48
+ontime Aircraft parked-Fueller on stand ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand #SUP: 43
+ontime Fueller on stand-Fueller connected ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand #SUP: 45
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand #SUP: 42
+ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Fwd cargo door open #SUP: 48
+ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Fwd cargo door open #SUP: 42
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Fwd cargo door open #SUP: 41
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Fwd cargo door open #SUP: 42
+ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand #SUP: 43
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand #SUP: 41
+ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand #SUP: 42
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand #SUP: 41
+ontime Fueller on stand-Fueller connected ontime Aircraft parked-Fwd cargo door open #SUP: 49
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft parked-Fwd cargo door open #SUP: 43
+ontime Aircraft parked-Fwd cargo door open ontime Aircraft parked-Bridge connected #SUP: 50
+ontime Fueller on stand-Fueller connected ontime Aircraft parked-Fwd cargo door open ontime Aircraft parked-Bridge connected #SUP: 44
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft parked-Fwd cargo door open ontime Aircraft parked-Bridge connected #SUP: 42
+ontime Aircraft parked-Fueller on stand ontime Aircraft parked-Fwd cargo door open ontime Aircraft parked-Bridge connected #SUP: 44
+ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 45
+ontime Aircraft parked-Fueller on stand ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 42
+ontime Fueller on stand-Fueller connected ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 43
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 41
+ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Fwd cargo door open ontime Aircraft parked-Bridge connected #SUP: 47
+ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Fwd cargo door open ontime Aircraft parked-Bridge connected #SUP: 42
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Fwd cargo door open ontime Aircraft parked-Bridge connected #SUP: 41
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Fwd cargo door open ontime Aircraft parked-Bridge connected #SUP: 42
+ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 43
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 41
+ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 42
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Fwd cargo door open ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 41
+short Aircraft parked-Bridge connected #SUP: 68
+short Aircraft entered stand-Bridge connected short Aircraft parked-Bridge connected #SUP: 58
+short Aircraft entered stand-Bridge connected #SUP: 69
+ontime Ground power disconnected-Pushback started #SUP: 71
+ontime Fueller on stand-Fueller connected ontime Ground power disconnected-Pushback started #SUP: 40
+ontime Ground power disconnected-Pushback started ontime Fueller disconnected-Fueller left stand #SUP: 42
+ontime Ground power disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 46
+ontime Aircraft parked-Fueller on stand ontime Ground power disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 41
+ontime Aircraft entered stand-Bridge connected ontime Ground power disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 44
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Ground power disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 40
+ontime Aircraft parked-Fueller on stand ontime Ground power disconnected-Pushback started #SUP: 46
+ontime Aircraft entered stand-Bridge connected ontime Ground power disconnected-Pushback started #SUP: 49
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Ground power disconnected-Pushback started #SUP: 43
+ontime Aircraft parked-Ground power connected ontime Ground power disconnected-Pushback started #SUP: 50
+ontime Aircraft parked-Fueller on stand ontime Aircraft parked-Ground power connected ontime Ground power disconnected-Pushback started #SUP: 40
+ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Ground power disconnected-Pushback started #SUP: 41
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Ground power disconnected-Pushback started #SUP: 39
+ontime Aircraft parked-Ground power connected ontime Ground power disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 42
+ontime Aircraft parked-Fueller on stand ontime Aircraft parked-Ground power connected ontime Ground power disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 39
+ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Ground power disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 40
+ontime Aircraft parked-Ground power connected ontime Bridge disconnected-Pushback started ontime Ground power disconnected-Pushback started #SUP: 44
+ontime Aircraft parked-Ground power connected ontime Bridge disconnected-Pushback started ontime Ground power disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 40
+ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Bridge disconnected-Pushback started ontime Ground power disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 39
+ontime Aircraft parked-Fueller on stand ontime Aircraft parked-Ground power connected ontime Bridge disconnected-Pushback started ontime Ground power disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 39
+ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Bridge disconnected-Pushback started ontime Ground power disconnected-Pushback started #SUP: 40
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Bridge disconnected-Pushback started ontime Ground power disconnected-Pushback started #SUP: 39
+ontime Aircraft parked-Fueller on stand ontime Aircraft parked-Ground power connected ontime Bridge disconnected-Pushback started ontime Ground power disconnected-Pushback started #SUP: 40
+ontime Bridge disconnected-Pushback started ontime Ground power disconnected-Pushback started #SUP: 54
+ontime Bridge disconnected-Pushback started ontime Ground power disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 41
+ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started ontime Ground power disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 40
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started ontime Ground power disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 39
+ontime Aircraft parked-Fueller on stand ontime Bridge disconnected-Pushback started ontime Ground power disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 40
+ontime Aircraft parked-Fueller on stand ontime Bridge disconnected-Pushback started ontime Ground power disconnected-Pushback started #SUP: 41
+ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started ontime Ground power disconnected-Pushback started #SUP: 42
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started ontime Ground power disconnected-Pushback started #SUP: 40
+long Bridge disconnected-Pushback started #SUP: 71
+long Aircraft parked-Bridge connected #SUP: 76
+long Fueller disconnected-Fueller left stand long Aircraft parked-Bridge connected #SUP: 39
+long Fueller on stand-Fueller connected long Aircraft parked-Bridge connected #SUP: 40
+long Aircraft entered stand-Bridge connected long Aircraft parked-Bridge connected #SUP: 61
+long Aircraft entered stand-Bridge connected #SUP: 76
+ontime Aircraft parked-Ground power connected #SUP: 79
+ontime Fueller on stand-Fueller connected ontime Aircraft parked-Ground power connected #SUP: 46
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft parked-Ground power connected #SUP: 40
+ontime Aircraft parked-Ground power connected ontime Fueller disconnected-Fueller left stand #SUP: 49
+ontime Fueller on stand-Fueller connected ontime Aircraft parked-Ground power connected ontime Fueller disconnected-Fueller left stand #SUP: 43
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft parked-Ground power connected ontime Fueller disconnected-Fueller left stand #SUP: 40
+ontime Aircraft parked-Fueller on stand ontime Aircraft parked-Ground power connected ontime Fueller disconnected-Fueller left stand #SUP: 43
+ontime Aircraft parked-Fueller on stand ontime Aircraft parked-Ground power connected #SUP: 49
+ontime Aircraft parked-Ground power connected ontime Bridge disconnected-Pushback started #SUP: 52
+ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Bridge disconnected-Pushback started #SUP: 41
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Bridge disconnected-Pushback started #SUP: 39
+ontime Aircraft parked-Ground power connected ontime Bridge disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 42
+ontime Aircraft parked-Fueller on stand ontime Aircraft parked-Ground power connected ontime Bridge disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 39
+ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Bridge disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 40
+ontime Aircraft parked-Fueller on stand ontime Aircraft parked-Ground power connected ontime Bridge disconnected-Pushback started #SUP: 42
+ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected #SUP: 53
+ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected #SUP: 41
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected #SUP: 40
+ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Fueller disconnected-Fueller left stand #SUP: 42
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Fueller disconnected-Fueller left stand #SUP: 40
+ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Fueller disconnected-Fueller left stand #SUP: 41
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Fueller disconnected-Fueller left stand #SUP: 40
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected #SUP: 45
+ontime Aircraft parked-Ground power connected ontime Aircraft parked-Bridge connected #SUP: 55
+ontime Aircraft parked-Ground power connected ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 44
+ontime Aircraft parked-Fueller on stand ontime Aircraft parked-Ground power connected ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 41
+ontime Fueller on stand-Fueller connected ontime Aircraft parked-Ground power connected ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 42
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft parked-Ground power connected ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 40
+ontime Fueller on stand-Fueller connected ontime Aircraft parked-Ground power connected ontime Aircraft parked-Bridge connected #SUP: 44
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft parked-Ground power connected ontime Aircraft parked-Bridge connected #SUP: 40
+ontime Aircraft parked-Fueller on stand ontime Aircraft parked-Ground power connected ontime Aircraft parked-Bridge connected #SUP: 45
+ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Aircraft parked-Bridge connected #SUP: 50
+ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Aircraft parked-Bridge connected #SUP: 41
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Aircraft parked-Bridge connected #SUP: 40
+ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 42
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 40
+ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 41
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 40
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Ground power connected ontime Aircraft parked-Bridge connected #SUP: 44
+ontime Bridge disconnected-Pushback started #SUP: 93
+ontime Bridge disconnected-Pushback started ontime Fueller disconnected-Fueller left stand #SUP: 58
+ontime Aircraft parked-Fueller on stand ontime Bridge disconnected-Pushback started ontime Fueller disconnected-Fueller left stand #SUP: 56
+ontime Fueller on stand-Fueller connected ontime Bridge disconnected-Pushback started ontime Fueller disconnected-Fueller left stand #SUP: 54
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Bridge disconnected-Pushback started ontime Fueller disconnected-Fueller left stand #SUP: 54
+ontime Fueller on stand-Fueller connected ontime Bridge disconnected-Pushback started #SUP: 60
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Bridge disconnected-Pushback started #SUP: 55
+ontime Aircraft parked-Fueller on stand ontime Bridge disconnected-Pushback started #SUP: 66
+ontime Bridge disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 70
+ontime Bridge disconnected-Pushback started ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 56
+ontime Aircraft parked-Fueller on stand ontime Bridge disconnected-Pushback started ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 55
+ontime Fueller on stand-Fueller connected ontime Bridge disconnected-Pushback started ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 54
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Bridge disconnected-Pushback started ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 54
+ontime Fueller on stand-Fueller connected ontime Bridge disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 57
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Bridge disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 55
+ontime Aircraft parked-Fueller on stand ontime Bridge disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 63
+ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 67
+ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 54
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 54
+ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 54
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 54
+ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 56
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 55
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started ontime Aircraft parked-Bridge connected #SUP: 62
+ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started #SUP: 70
+ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started ontime Fueller disconnected-Fueller left stand #SUP: 54
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started ontime Fueller disconnected-Fueller left stand #SUP: 54
+ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started ontime Fueller disconnected-Fueller left stand #SUP: 54
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started ontime Fueller disconnected-Fueller left stand #SUP: 54
+ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started #SUP: 56
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started #SUP: 55
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Bridge disconnected-Pushback started #SUP: 63
+ontime Aircraft parked-Bridge connected #SUP: 100
+ontime Fueller on stand-Fueller connected ontime Aircraft parked-Bridge connected #SUP: 71
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft parked-Bridge connected #SUP: 64
+ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 72
+ontime Fueller on stand-Fueller connected ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 64
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 62
+ontime Aircraft parked-Fueller on stand ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 65
+ontime Aircraft parked-Fueller on stand ontime Aircraft parked-Bridge connected #SUP: 76
+ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Bridge connected #SUP: 89
+ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Bridge connected #SUP: 65
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Bridge connected #SUP: 62
+ontime Aircraft entered stand-Bridge connected ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 66
+ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 62
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 61
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Fueller disconnected-Fueller left stand ontime Aircraft parked-Bridge connected #SUP: 62
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Aircraft parked-Bridge connected #SUP: 72
+ontime Aircraft entered stand-Bridge connected #SUP: 103
+ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected #SUP: 66
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected #SUP: 62
+ontime Aircraft entered stand-Bridge connected ontime Fueller disconnected-Fueller left stand #SUP: 67
+ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Fueller disconnected-Fueller left stand #SUP: 62
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Aircraft entered stand-Bridge connected ontime Fueller disconnected-Fueller left stand #SUP: 61
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected ontime Fueller disconnected-Fueller left stand #SUP: 63
+ontime Aircraft parked-Fueller on stand ontime Aircraft entered stand-Bridge connected #SUP: 75
+short Fueller disconnected-Fueller left stand #SUP: 104
+short Aircraft parked-Fueller on stand short Fueller disconnected-Fueller left stand #SUP: 48
+short Fueller on stand-Fueller connected short Fueller disconnected-Fueller left stand #SUP: 58
+short Fueller on stand-Fueller connected #SUP: 104
+long Aircraft parked-Fueller on stand short Fueller on stand-Fueller connected #SUP: 47
+short Aircraft parked-Fueller on stand #SUP: 104
+short Aircraft parked-Fueller on stand long Fueller on stand-Fueller connected #SUP: 39
+long Fueller disconnected-Fueller left stand #SUP: 118
+long Fueller on stand-Fueller connected long Fueller disconnected-Fueller left stand #SUP: 59
+long Aircraft parked-Fueller on stand long Fueller disconnected-Fueller left stand #SUP: 65
+long Fueller on stand-Fueller connected #SUP: 118
+long Aircraft parked-Fueller on stand long Fueller on stand-Fueller connected #SUP: 54
+long Aircraft parked-Fueller on stand #SUP: 119
+ontime Fueller disconnected-Fueller left stand #SUP: 131
+ontime Aircraft parked-Fueller on stand ontime Fueller disconnected-Fueller left stand #SUP: 92
+ontime Fueller on stand-Fueller connected ontime Fueller disconnected-Fueller left stand #SUP: 94
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected ontime Fueller disconnected-Fueller left stand #SUP: 79
+ontime Fueller on stand-Fueller connected #SUP: 131
+ontime Aircraft parked-Fueller on stand ontime Fueller on stand-Fueller connected #SUP: 87
+ontime Aircraft parked-Fueller on stand #SUP: 139
