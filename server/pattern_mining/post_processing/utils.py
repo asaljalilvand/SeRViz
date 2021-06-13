@@ -13,16 +13,15 @@ from pattern_mining.mining import spmf_manager
 
 # global data ####################################################################################
 
-# waiting for airport permission to use anonymous data
-labels_df = pd.DataFrame() #pd.read_pickle("pattern_mining/data/HIAA_anonymized/labeled_sequences.pkl") # sequences removed, only ids (NDA)
-delta_labels_df = pd.DataFrame() #pd.read_pickle("pattern_mining/data/HIAA_anonymized/labeled_deltas.pkl") # deltas removed, only ids (NDA)
-flat_flight_tid = pd.DataFrame() #pd.read_csv("pattern_mining/data/HIAA_anonymized/turnaround_arr_dep_flights.csv")
-weather_tid_df = pd.DataFrame() #pd.read_csv("pattern_mining/data/HIAA_anonymized/tid_weather.csv")
-performance_detail_df = pd.DataFrame() #pd.read_csv("pattern_mining/data/HIAA_anonymized/performance_detail.csv")
-delta_performance_detail_df = pd.DataFrame() #pd.read_csv("pattern_mining/data/HIAA_anonymized/delta_performance_detail.csv")
+labels_df = pd.read_pickle("pattern_mining/data/HIAA_anonymized/labeled_sequences.pkl") # sequences removed, only ids (NDA)
+delta_labels_df = pd.read_pickle("pattern_mining/data/HIAA_anonymized/labeled_deltas.pkl") # deltas removed, only ids (NDA)
+flat_flight_tid = pd.read_csv("pattern_mining/data/HIAA_anonymized/turnaround_arr_dep_flights.csv")
+weather_tid_df = pd.read_csv("pattern_mining/data/HIAA_anonymized/tid_weather.csv")
+performance_detail_df = pd.read_csv("pattern_mining/data/HIAA_anonymized/performance_detail.csv")
+delta_performance_detail_df = pd.read_csv("pattern_mining/data/HIAA_anonymized/delta_performance_detail.csv")
 # Nan not a valid json literal, problems in parsing response in front-end
-# performance_detail_df = performance_detail_df.where(pd.notnull(performance_detail_df), None)
-# delta_performance_detail_df = delta_performance_detail_df.where(pd.notnull(delta_performance_detail_df), None)
+performance_detail_df = performance_detail_df.where(pd.notnull(performance_detail_df), None)
+delta_performance_detail_df = delta_performance_detail_df.where(pd.notnull(delta_performance_detail_df), None)
 ce_mapping = AirportMapping()
 
 flaredown_df = pd.read_pickle("pattern_mining/data/flaredown/sequences.pkl")
@@ -582,7 +581,7 @@ def get_filter_options(data='airport') -> dict:
         return {
             'events': [{'value': code, 'text': d['event']} for code, d in ce_mapping.code_to_event.items() if
                        'parent' in d],
-            'stand': [int(stand) for stand in flat_flight_tid['Stand'].unique()],
+            'stand': list(flat_flight_tid['Stand'].unique()),
             'airline': list(flat_flight_tid['AL'].unique()),
             'at': {'min': int(math.floor(weather_tid_df['AT'].min())),
                    'max': int(math.ceil(weather_tid_df['AT'].max()))},

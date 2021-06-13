@@ -89,8 +89,6 @@ An instance of SPMF v2.42c is located at server/pattern_mining/mining/spmf.jar (
 
 We developed a low-fidelity prototype in early stages of visual design using dash. The dashboard is located at server/mining/quick_dashboard.py.
 
-:warning: Anonymous data currently unavailable until further notice.
-
 <img src="https://raw.githubusercontent.com/AsalJalilvand/SeRVis/master/images/dash.png" height="250">
 
 ## Acknowledgment
