@@ -1,8 +1,8 @@
 # SeRVis
 ##  An Interactive Visualization Framework for the Analysis of Sequential Rules and Frequent Itemsets
 [![Generic badge](https://img.shields.io/badge/Python-3.7-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Flask-1.1.2-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/networkx-2.5-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/spmf-1.3-green)](https://shields.io/)
-[![Code Quality Score](https://www.code-inspector.com/project/22443/score/svg)](https://frontend.code-inspector.com/public/project/22443/SeRVis/dashboard)
-[![Code Grade](https://www.code-inspector.com/project/22443/status/svg)](https://frontend.code-inspector.com/public/project/22443/SeRVis/dashboard)
+[![Code Quality Score](https://www.code-inspector.com/project/22661/score/svg)](https://frontend.code-inspector.com/public/project/22661/SeRVis/dashboard)
+[![Code Grade](https://www.code-inspector.com/project/22661/status/svg)](https://frontend.code-inspector.com/public/project/22661/SeRVis/dashboard)
 
 :school: This project is part of a Masters thesis in the Visual Analytics and Visualization (VAV) lab is part of the Faculty of Computer Science, Dalhousie University, Canada.<br>
 :orange_book: [View on DalSpace library](https://dalspace.library.dal.ca/handle/10222/80445) <br>
@@ -82,7 +82,7 @@ pip install -r requirements.txt
 python main.py
 `````
 :point_right: Since this project uses [SPMF library](https://www.philippe-fournier-viger.com/spmf/), you need have Java installed.
-An instance of SPMF v2.42c is located at server/pattern_mining/mining/spmf.jar (uploaded since it is required for live demo on Heroku).
+An instance of SPMF v2.42c is located at server/pattern_mining/mining/thirdparty/spmf.jar (uploaded since it is required for live demo on Heroku).
 
 ### Dash
 [![Generic badge](https://img.shields.io/badge/dash-1.18.1-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/dash_core_components-1.14.1-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/plotly-4.13.0-green)](https://shields.io/)
