@@ -1,8 +1,8 @@
 # SeRViz
 ##  An Interactive Visualization Framework for the Analysis of Sequential Rules and Frequent Itemsets
 [![Generic badge](https://img.shields.io/badge/Python-3.7-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Flask-1.1.2-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/networkx-2.5-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/spmf-1.3-green)](https://shields.io/)
-[![Code Quality Score](https://www.code-inspector.com/project/22661/score/svg)](https://frontend.code-inspector.com/public/project/22661/SeRViz/dashboard)
-[![Code Grade](https://www.code-inspector.com/project/22661/status/svg)](https://frontend.code-inspector.com/public/project/22661/SeRViz/dashboard)
+[![Code Quality Score](https://www.code-inspector.com/project/24211/score/svg)](https://frontend.code-inspector.com/public/project/24211/SeRViz/dashboard)
+[![Code Grade](https://www.code-inspector.com/project/24211/status/svg)](https://frontend.code-inspector.com/public/project/24211/SeRViz/dashboard)
 
 :school: This project is part of a Masters thesis in the Visual Analytics and Visualization (VAV) lab is part of the Faculty of Computer Science, Dalhousie University, Canada.<br>
 :orange_book: [View on DalSpace library](https://dalspace.library.dal.ca/handle/10222/80445) <br>
