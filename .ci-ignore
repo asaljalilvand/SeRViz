@@ -1,0 +1,3 @@
+# directories to be ignored by code inspector
+server/static/
+server/templates
