@@ -1,6 +1,5 @@
 .idea
 __pycache__/
-/client/
 
 # includes information about gate numbers and flight dates in variable names and filenames
 /server/pattern_mining/pre_processing/pre_processing.py
