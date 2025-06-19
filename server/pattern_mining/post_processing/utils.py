@@ -1,4 +1,6 @@
 from functools import lru_cache
+
+import numpy as np
 import pandas as pd
 import pickle
 import os
@@ -170,14 +172,22 @@ def get_pc_format(seq_ids_per_pattern: List[list] = None) -> List[dict]:
                    for ids in seq_ids_per_pattern]
 
     for column in weather_tid_df.select_dtypes(exclude=['object']).columns:
+        # Convert min/max to Python native types (int or float)
+        min_val = weather_tid_df[column].min()
+        max_val = weather_tid_df[column].max()
+
+        # Ensure proper serialization by converting numpy types to native types
+        min_val = int(min_val) if isinstance(min_val, np.int64) else float(min_val)
+        max_val = int(max_val) if isinstance(max_val, np.int64) else float(max_val)
+
         dimension = {
             'label': column,
-            'range': [weather_tid_df[column].min(), weather_tid_df[column].max()],  # No need for astype(float)
-            'values': [median[column] for median in medians]
+            'range': [min_val, max_val],  # Use the native Python types here
+            'values': [int(median[column]) if isinstance(median[column], np.int64) else float(median[column]) for median
+                       in medians]
         }
         dimensions.append(dimension)
     return dimensions
-
 
 
 def remove_file(filename: str):
