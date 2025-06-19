@@ -16,7 +16,6 @@
         <v-card color="light-blue lighten-5"
                 height="100%"
                 hover
-                disabled
                 to="airport"
 
         >
@@ -29,9 +28,6 @@
           <v-card-title>
             <span class="headline">Airport Ground Handling Log</span>
           </v-card-title>
-          <v-card-subtitle style="color: red;font-weight: bold">
-            Disabled until permission from airport granted for using anonymized data
-          </v-card-subtitle>
 
            <v-list-item>
              <v-list-item-content>

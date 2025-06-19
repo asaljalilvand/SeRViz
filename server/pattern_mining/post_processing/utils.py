@@ -164,19 +164,20 @@ def get_pc_format(seq_ids_per_pattern: List[list] = None) -> List[dict]:
     '''
     dimensions = []
     if seq_ids_per_pattern is None:
-        medians = [weather_tid_df.median(numeric_only=True).astype(float).to_dict()]
+        medians = [weather_tid_df.median(numeric_only=True).to_dict()]
     else:
-        medians = [weather_tid_df[weather_tid_df['Turnaround ID'].isin(ids)].median(numeric_only=True).astype(float)
-                       .to_dict()
+        medians = [weather_tid_df[weather_tid_df['Turnaround ID'].isin(ids)].median(numeric_only=True).to_dict()
                    for ids in seq_ids_per_pattern]
 
     for column in weather_tid_df.select_dtypes(exclude=['object']).columns:
-        dimension = {'label': column,
-                     'range': [weather_tid_df[column].min().astype(float),
-                               weather_tid_df[column].max().astype(float)],
-                     'values': [median[column] for median in medians]}
+        dimension = {
+            'label': column,
+            'range': [weather_tid_df[column].min(), weather_tid_df[column].max()],  # No need for astype(float)
+            'values': [median[column] for median in medians]
+        }
         dimensions.append(dimension)
     return dimensions
+
 
 
 def remove_file(filename: str):
