@@ -1,4 +1,6 @@
 from functools import lru_cache
+
+import numpy as np
 import pandas as pd
 import pickle
 import os
@@ -164,17 +166,26 @@ def get_pc_format(seq_ids_per_pattern: List[list] = None) -> List[dict]:
     '''
     dimensions = []
     if seq_ids_per_pattern is None:
-        medians = [weather_tid_df.median(numeric_only=True).astype(float).to_dict()]
+        medians = [weather_tid_df.median(numeric_only=True).to_dict()]
     else:
-        medians = [weather_tid_df[weather_tid_df['Turnaround ID'].isin(ids)].median(numeric_only=True).astype(float)
-                       .to_dict()
+        medians = [weather_tid_df[weather_tid_df['Turnaround ID'].isin(ids)].median(numeric_only=True).to_dict()
                    for ids in seq_ids_per_pattern]
 
     for column in weather_tid_df.select_dtypes(exclude=['object']).columns:
-        dimension = {'label': column,
-                     'range': [weather_tid_df[column].min().astype(float),
-                               weather_tid_df[column].max().astype(float)],
-                     'values': [median[column] for median in medians]}
+        # Convert min/max to Python native types (int or float)
+        min_val = weather_tid_df[column].min()
+        max_val = weather_tid_df[column].max()
+
+        # Ensure proper serialization by converting numpy types to native types
+        min_val = int(min_val) if isinstance(min_val, np.int64) else float(min_val)
+        max_val = int(max_val) if isinstance(max_val, np.int64) else float(max_val)
+
+        dimension = {
+            'label': column,
+            'range': [min_val, max_val],  # Use the native Python types here
+            'values': [int(median[column]) if isinstance(median[column], np.int64) else float(median[column]) for median
+                       in medians]
+        }
         dimensions.append(dimension)
     return dimensions
 
